@@ -1,6 +1,8 @@
-name: "Credly to Hugo"
+name: "Import credly badges"
 
 on:
+  schedule: 
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -9,14 +11,17 @@ jobs:
     steps:
       - uses: "actions/checkout@v3"
 
-      - uses: "michaelcontento/credly2hugo-action@main"
+      - name: Import credly into our badges file
+        uses: "michaelcontento/credly2hugo-action@main"
         with: 
           username: "michael-contento"
 
-      - name: Commit report
+      - name: Commit new badges file (if changed)
         run: |
           git config --global user.name 'Michael Contento'
           git config --global user.email 'michaelcontento@users.noreply.github.com'
-          git add data/
-          git commit --message 'credly2hugo: Updated creadly badges data file'
-          git push
+          git add data/          
+          if ! git diff-index --quiet HEAD; then
+            git commit --message 'credly2hugo: Updated creadly badges data file'
+            git push origin main
+          fi
