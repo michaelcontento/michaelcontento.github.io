@@ -1,0 +1,29 @@
+- id: read_more
+  translation: Weiterlesen
+
+- id: min_read
+  translation: min Lesezeit
+
+- id: instagram
+  translation: Instagram
+  
+- id: follow_me
+  translation: Folge mir
+
+- id: first_name
+  translation: Vorname
+  
+- id: last_name
+  translation: Nachname
+  
+- id: email
+  translation: E-Mail 
+
+- id: message
+  translation: Nachricht
+
+- id: submit
+  translation: Abschicken
+
+- id: categories
+  translation: Kategorien

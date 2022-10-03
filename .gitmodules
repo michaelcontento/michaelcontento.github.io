@@ -1,0 +1,3 @@
+[submodule "themes/iWriter-hugo"]
+	path = themes/iWriter-hugo
+	url = https://github.com/sid-r-singh/iWriter-hugo
