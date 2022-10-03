@@ -2,30 +2,41 @@
   {
     "description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
     "expires_at": "2023-09-13",
-    "id": "DP-420",
+    "id": "99fa5c94-1ed1-440c-b55a-013ea2a8d181",
     "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
     "issued_at": "2022-09-13",
     "issuer_url": "https://docs.microsoft.com/learn/certifications/azure-cosmos-db-developer-specialty/",
+    "microsoft_ids": [
+      "DP-420"
+    ],
     "name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
     "url": "https://www.credly.com/badges/99fa5c94-1ed1-440c-b55a-013ea2a8d181"
   },
   {
     "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
     "expires_at": null,
-    "id": "AZ-900",
+    "id": "027531a8-a693-4a8d-b84f-621bff53c8ed",
     "image_url": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
     "issued_at": "2022-09-22",
     "issuer_url": "https://docs.microsoft.com/learn/certifications/azure-fundamentals/",
+    "microsoft_ids": [
+      "AZ-900"
+    ],
     "name": "Microsoft Certified: Azure Fundamentals",
     "url": "https://www.credly.com/badges/027531a8-a693-4a8d-b84f-621bff53c8ed"
   },
   {
     "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
     "expires_at": "2023-09-29",
-    "id": "AZ-104",
+    "id": "246cdd2b-fdb8-4d46-9f7b-a60e225640c8",
     "image_url": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
     "issued_at": "2022-09-29",
     "issuer_url": "https://docs.microsoft.com/learn/certifications/azure-administrator",
+    "microsoft_ids": [
+      "AZ-104",
+      "AZ-103",
+      "AZ-102"
+    ],
     "name": "Microsoft Certified: Azure Administrator Associate",
     "url": "https://www.credly.com/badges/246cdd2b-fdb8-4d46-9f7b-a60e225640c8"
   }
