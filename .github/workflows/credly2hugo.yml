@@ -20,7 +20,7 @@ jobs:
         run: |
           git config --global user.name 'Michael Contento'
           git config --global user.email 'michaelcontento@users.noreply.github.com'
-          git add data/          
+          git add .         
           if ! git diff-index --quiet HEAD; then
             git commit --message 'credly2hugo: Updated creadly badges data file'
             git push origin main
