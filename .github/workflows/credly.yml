@@ -1,4 +1,4 @@
-name: Import credly badges
+name: Import Credly badges
 
 on:
   schedule: 
