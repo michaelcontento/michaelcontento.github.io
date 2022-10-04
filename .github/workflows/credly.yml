@@ -1,4 +1,4 @@
-name: "Import credly badges"
+name: Import credly badges
 
 on:
   schedule: 
@@ -9,14 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: "actions/checkout@v3"
+      - uses: actions/checkout@v3
 
-      - name: Import credly into our badges file
-        uses: "michaelcontento/credly2hugo-action@main"
+      - name: Import credly badges
+        uses: michaelcontento/credly2hugo-action@main
         with: 
-          username: "michael-contento"
+          username: michael-contento
 
-      - name: Commit new badges file (if changed)
+      - name: Commit new badges (if changed)
         run: |
           git config --global user.name 'Michael Contento'
           git config --global user.email 'michaelcontento@users.noreply.github.com'
