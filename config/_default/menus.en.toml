@@ -17,3 +17,15 @@ weight = 30
 name = "Contact"
 url = "contact/"
 weight = 40
+
+############################# Footer Menu ########################
+
+# [[footer]]
+# name = "Privacy"
+# url = "privacy/"
+# weight = 10
+
+# [[footer]]
+# name = "Terms & Conditions"
+# url = "terms-conditions/"
+# weight = 20

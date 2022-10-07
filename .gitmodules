@@ -1,3 +1,4 @@
-[submodule "themes/iWriter-hugo"]
-	path = themes/iWriter-hugo
-	url = https://github.com/sid-r-singh/iWriter-hugo
+[submodule "themes/bookworm-light"]
+	path = themes/bookworm-light
+	url = git@github.com:michaelcontento/bookworm-light.git
+	branch = features/michael

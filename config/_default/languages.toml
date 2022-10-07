@@ -1,11 +1,9 @@
 [de]
 languageName = ":de:"
-languageCode = "de-de"
-contentDir = "content/de"
+languageCode = "de-DE"
 weight = 10
 
 [en]
 languageName = ":us:"
-languageCode = "en-us"
-contentDir = "content/en"
+languageCode = "en-US"
 weight = 20
