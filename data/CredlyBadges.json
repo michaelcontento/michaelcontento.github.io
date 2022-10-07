@@ -6,7 +6,7 @@
     "Id": "027531a8-a693-4a8d-b84f-621bff53c8ed",
     "IssuedAt": "2022-09-22",
     "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-fundamentals/",
-    "LocalImagePath": "/github/workspace/assets/images/CredlyBadges/027531a8-a693-4a8d-b84f-621bff53c8ed.png",
+    "LocalImagePath": "images/CredlyBadges/027531a8-a693-4a8d-b84f-621bff53c8ed.png",
     "MicrosoftIds": [
       "AZ-900"
     ],
@@ -20,7 +20,7 @@
     "Id": "246cdd2b-fdb8-4d46-9f7b-a60e225640c8",
     "IssuedAt": "2022-09-29",
     "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-administrator",
-    "LocalImagePath": "/github/workspace/assets/images/CredlyBadges/246cdd2b-fdb8-4d46-9f7b-a60e225640c8.png",
+    "LocalImagePath": "images/CredlyBadges/246cdd2b-fdb8-4d46-9f7b-a60e225640c8.png",
     "MicrosoftIds": [
       "AZ-104",
       "AZ-103",
@@ -36,7 +36,7 @@
     "Id": "99fa5c94-1ed1-440c-b55a-013ea2a8d181",
     "IssuedAt": "2022-09-13",
     "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-cosmos-db-developer-specialty/",
-    "LocalImagePath": "/github/workspace/assets/images/CredlyBadges/99fa5c94-1ed1-440c-b55a-013ea2a8d181.png",
+    "LocalImagePath": "images/CredlyBadges/99fa5c94-1ed1-440c-b55a-013ea2a8d181.png",
     "MicrosoftIds": [
       "DP-420"
     ],
