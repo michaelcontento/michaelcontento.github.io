@@ -1,0 +1,46 @@
+[
+  {
+    "CredlyUrl": "https://www.credly.com/badges/027531a8-a693-4a8d-b84f-621bff53c8ed",
+    "Description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+    "ExpiresAt": null,
+    "Id": "027531a8-a693-4a8d-b84f-621bff53c8ed",
+    "IssuedAt": "2022-09-22",
+    "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-fundamentals/",
+    "LocalImagePath": "/github/workspace/assets/images/CredlyBadges/027531a8-a693-4a8d-b84f-621bff53c8ed.png",
+    "MicrosoftIds": [
+      "AZ-900"
+    ],
+    "Name": "Microsoft Certified: Azure Fundamentals",
+    "RemoteImageUrl": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/246cdd2b-fdb8-4d46-9f7b-a60e225640c8",
+    "Description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
+    "ExpiresAt": "2023-09-29",
+    "Id": "246cdd2b-fdb8-4d46-9f7b-a60e225640c8",
+    "IssuedAt": "2022-09-29",
+    "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-administrator",
+    "LocalImagePath": "/github/workspace/assets/images/CredlyBadges/246cdd2b-fdb8-4d46-9f7b-a60e225640c8.png",
+    "MicrosoftIds": [
+      "AZ-104",
+      "AZ-103",
+      "AZ-102"
+    ],
+    "Name": "Microsoft Certified: Azure Administrator Associate",
+    "RemoteImageUrl": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/99fa5c94-1ed1-440c-b55a-013ea2a8d181",
+    "Description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
+    "ExpiresAt": "2023-09-13",
+    "Id": "99fa5c94-1ed1-440c-b55a-013ea2a8d181",
+    "IssuedAt": "2022-09-13",
+    "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-cosmos-db-developer-specialty/",
+    "LocalImagePath": "/github/workspace/assets/images/CredlyBadges/99fa5c94-1ed1-440c-b55a-013ea2a8d181.png",
+    "MicrosoftIds": [
+      "DP-420"
+    ],
+    "Name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+    "RemoteImageUrl": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
+  }
+]
