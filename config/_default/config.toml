@@ -127,7 +127,7 @@ expire_days = 2
 # Social Icons
 [[params.social]]
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-url = "www.linkedin.com/in/michaelcontento"
+url = "https://www.linkedin.com/in/michaelcontento"
 
 [[params.social]]
 icon = "lab la-xing" # https://icons8.com/line-awesome
