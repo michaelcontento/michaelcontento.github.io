@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Import credly badges
-        uses: michaelcontento/credly2hugo-action@main
+        uses: michaelcontento/credly2hugo-action@v1
         with: 
           username: michael-contento
 
