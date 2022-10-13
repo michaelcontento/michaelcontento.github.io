@@ -1,0 +1,869 @@
+{
+  "data": [
+    {
+      "accepted_at": "2022-09-22T01:22:08.121-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "9fed1666-1079-4d1d-bb8d-d45c45285a48",
+            "required_badge_template_id": null,
+            "title": "Pass Exam AZ-900: Microsoft Azure Fundamentals",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-900"
+          }
+        ],
+        "cost": null,
+        "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+        "endorsements": [
+          {
+            "description": "This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 2 college credits. For more information about ACE CREDIT evaluations, visit www.acenet.edu.",
+            "endorser": {
+              "id": "775db26b-6444-410d-b704-ac99df9cdb00",
+              "image": {
+                "id": "59a19ea5-a54e-4d0d-9bcc-811f363ca12a",
+                "url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png"
+              },
+              "image_url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png",
+              "name": "American Council on Education CREDIT",
+              "url": "https://www.credly.com/org/american-council-on-education-credit"
+            },
+            "id": "a98da843-5155-494a-a593-946f0e5fe70c",
+            "url": "https://www.acenet.edu/National-Guide/Pages/Organization.aspx?oid=46099b28-9016-e811-810f-5065f38bf0e1"
+          }
+        ],
+        "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-fundamentals/",
+        "id": "e0997fd0-d532-4ba0-a8a7-ee6cc6c7b8e9",
+        "image": {
+          "id": "be8fcaeb-c769-4858-b567-ffaaa73ce8cf",
+          "url": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+        },
+        "image_url": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "id": "37229bc7-1a4e-478d-b834-17402ba02862",
+            "name": "Cloud Data",
+            "vanity_slug": "cloud-data"
+          },
+          {
+            "id": "069c9097-511a-4671-b167-36824826bc7d",
+            "name": "Cloud Networking",
+            "vanity_slug": "cloud-networking"
+          },
+          {
+            "id": "68fab466-80d0-441e-8db4-a036d2e711eb",
+            "name": "Cloud Security",
+            "vanity_slug": "cloud-security"
+          },
+          {
+            "id": "f056df54-cafe-4713-bdc5-d4ac6734d76c",
+            "name": "Cloud Services",
+            "vanity_slug": "cloud-services"
+          },
+          {
+            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
+            "name": "Cloud Storage",
+            "vanity_slug": "cloud-storage"
+          },
+          {
+            "id": "35abc0ba-fd68-400c-a55f-e3fce62267b6",
+            "name": "Virtualization",
+            "vanity_slug": "virtualization"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals",
+        "vanity_slug": "microsoft-certified-azure-fundamentals"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "027531a8-a693-4a8d-b84f-621bff53c8ed",
+      "image": {
+        "id": "be8fcaeb-c769-4858-b567-ffaaa73ce8cf",
+        "url": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+      },
+      "image_url": "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-09-22T00:49:05.000-05:00",
+      "issued_at_date": "2022-09-22",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2022-09-22T01:22:08.132-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-09-22T01:22:08.132-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-09-29T01:41:57.572-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "a49c064b-d7b7-410b-b3c8-cecc6051b9ab",
+            "required_badge_template_id": null,
+            "title": "PASS EXAM AZ-104:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "20902758-97b1-4729-b25e-5471b7a1ca6c",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-104: Microsoft Azure Administrator",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-104"
+          },
+          {
+            "activity_type": "Credential",
+            "id": "8fe2a503-86e0-4866-bd89-491016760e0e",
+            "required_badge_template_id": null,
+            "title": "OR PASS EXAM AZ-103*:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "682b7c5e-9769-4786-b58c-a39ba1741eb3",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-103: Microsoft Azure Administrator (*Exam now retired)",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-103"
+          },
+          {
+            "activity_type": "Credential",
+            "id": "5c649d9b-1372-43c7-b374-fda046306aa8",
+            "required_badge_template_id": null,
+            "title": "OR PASS EXAM 533* AND EXAM AZ-102*:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "ca053d59-f72e-466f-864f-7b6c6b46c69a",
+            "required_badge_template_id": null,
+            "title": "- Exam 533: Implementing Microsoft Azure Infrastructure Solutions (*Exam now retired)",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "0efdf5e4-f115-4461-83d7-3e9619e5be9b",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-102: Microsoft Azure Administrator Certification Transition (*Exam now retired)",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-102"
+          }
+        ],
+        "cost": null,
+        "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
+        "endorsements": [
+          {
+            "description": "This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 2 college credits. For more information about ACE CREDIT evaluations, visit www.acenet.edu.",
+            "endorser": {
+              "id": "775db26b-6444-410d-b704-ac99df9cdb00",
+              "image": {
+                "id": "59a19ea5-a54e-4d0d-9bcc-811f363ca12a",
+                "url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png"
+              },
+              "image_url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png",
+              "name": "American Council on Education CREDIT",
+              "url": "https://www.credly.com/org/american-council-on-education-credit"
+            },
+            "id": "d07489b1-d06b-4a79-bfa6-22b38ab046a0",
+            "url": "https://www.acenet.edu/National-Guide/Pages/Organization.aspx?oid=46099b28-9016-e811-810f-5065f38bf0e1"
+          }
+        ],
+        "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-administrator",
+        "id": "5d5e9746-b762-41b3-afc0-df3ffc6bfaa3",
+        "image": {
+          "id": "336eebfc-0ac3-4553-9a67-b402f491f185",
+          "url": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+        },
+        "image_url": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "Microsoft Certified: Azure Administrator Associate",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "3f7856d9-c9ac-4d4c-a585-6051e893951a",
+            "name": "Application Services",
+            "vanity_slug": "application-services"
+          },
+          {
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "id": "072edd56-ca54-4b17-b1bb-5f3ed7318786",
+            "name": "Azure Active Directory",
+            "vanity_slug": "azure-active-directory"
+          },
+          {
+            "id": "6720d529-d798-4291-a2e5-a9f9a3b95ff4",
+            "name": "Azure Administrator",
+            "vanity_slug": "azure-administrator"
+          },
+          {
+            "id": "8fc06350-7c6b-4710-b538-18931925807d",
+            "name": "Azure App Service",
+            "vanity_slug": "azure-app-service"
+          },
+          {
+            "id": "a2b03ff5-beb8-4f70-8bd9-13db3f081ae8",
+            "name": "Azure Load Balancer",
+            "vanity_slug": "azure-load-balancer"
+          },
+          {
+            "id": "1e553adb-8356-4a39-81f4-0d1ec21263d4",
+            "name": "Azure Storage",
+            "vanity_slug": "azure-storage"
+          },
+          {
+            "id": "96a70f5c-fece-4d56-a319-bb151cf005f9",
+            "name": "Azure Subscriptions",
+            "vanity_slug": "azure-subscriptions"
+          },
+          {
+            "id": "25418f9e-cb9c-4312-b55d-d9c6e3be702e",
+            "name": "Azure Virtual Machines",
+            "vanity_slug": "azure-virtual-machines"
+          },
+          {
+            "id": "4a0b824f-64a4-4121-af88-15d4261fdecf",
+            "name": "Multi-Factor Authentication",
+            "vanity_slug": "multi-factor-authentication"
+          },
+          {
+            "id": "8348a5b7-ac30-4c88-adf5-ca5f3ca7e8f9",
+            "name": "Privileged Identity Management",
+            "vanity_slug": "privileged-identity-management"
+          },
+          {
+            "id": "152a7a36-68cf-4c40-bb57-a12914bdf21e",
+            "name": "Secure Identities",
+            "vanity_slug": "secure-identities"
+          },
+          {
+            "id": "b146d36f-f720-4599-b8a1-6c231143ea1c",
+            "name": "Virtual Networks",
+            "vanity_slug": "virtual-networks"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-administrator-associate.2",
+        "vanity_slug": "microsoft-certified-azure-administrator-associate.2"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2023-09-29T18:59:59.000-05:00",
+      "expires_at_date": "2023-09-29",
+      "id": "246cdd2b-fdb8-4d46-9f7b-a60e225640c8",
+      "image": {
+        "id": "336eebfc-0ac3-4553-9a67-b402f491f185",
+        "url": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+      },
+      "image_url": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
+      "is_private_badge": false,
+      "issued_at": "2022-09-29T00:21:36.000-05:00",
+      "issued_at_date": "2022-09-29",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2022-09-29T01:41:57.583-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-09-29T01:41:57.583-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-09-13T09:39:15.902-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "ee388890-5ffa-4a4e-99cd-2feea5803abe",
+            "required_badge_template_id": null,
+            "title": "Pass Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/dp-420"
+          }
+        ],
+        "cost": null,
+        "description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
+        "endorsements": [],
+        "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-cosmos-db-developer-specialty/",
+        "id": "d8029d6f-76de-441c-87cd-bda32717fdc8",
+        "image": {
+          "id": "515fa1dc-ac4a-4f08-ac73-6fd9694124cb",
+          "url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
+        },
+        "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "id": "9448f54d-65a6-48b7-8944-9bfa8538f15c",
+            "name": "Azure Cosmos DB",
+            "vanity_slug": "azure-cosmos-db"
+          },
+          {
+            "id": "3497297f-f85f-4f1e-845a-356fd4d11d47",
+            "name": "C#",
+            "vanity_slug": "c"
+          },
+          {
+            "id": "37229bc7-1a4e-478d-b834-17402ba02862",
+            "name": "Cloud Data",
+            "vanity_slug": "cloud-data"
+          },
+          {
+            "id": "e39b02b6-da5a-43dd-a1f2-370581747653",
+            "name": "Cloud Developer",
+            "vanity_slug": "cloud-developer"
+          },
+          {
+            "id": "4e2c8d6a-1839-4a73-bb99-2cfe3b574100",
+            "name": "Java",
+            "vanity_slug": "java"
+          },
+          {
+            "id": "c624f943-6575-4618-96ce-8fdd35609851",
+            "name": "NoSQL",
+            "vanity_slug": "nosql"
+          },
+          {
+            "id": "94c11ea3-cc1b-4177-9f1e-f98291a69850",
+            "name": "Python",
+            "vanity_slug": "python"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-cosmos-db-developer-specialty",
+        "vanity_slug": "microsoft-certified-azure-cosmos-db-developer-specialty"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2023-09-13T18:59:59.000-05:00",
+      "expires_at_date": "2023-09-13",
+      "id": "99fa5c94-1ed1-440c-b55a-013ea2a8d181",
+      "image": {
+        "id": "515fa1dc-ac4a-4f08-ac73-6fd9694124cb",
+        "url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
+      },
+      "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-09-13T01:50:41.000-05:00",
+      "issued_at_date": "2022-09-13",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2022-09-13T09:39:15.902-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-09-13T09:39:15.902-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-10-12T09:46:35.984-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "516ae5df-d017-4184-82f0-8f982fb87d70",
+            "required_badge_template_id": null,
+            "title": "Completion of the successful onboarding as a new Kusto detective.",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "cost": null,
+        "description": "Completion of the successful onboarding as a new Kusto detective.",
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "97e3e3b5-d01d-4091-acb3-cf90b239a1b3",
+        "image": {
+          "id": "84201552-025f-4b97-81c4-55be4ba896ff",
+          "url": "https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png"
+        },
+        "image_url": "https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "Kusto Detective Agency - Onboarding",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
+            "name": "Big Data",
+            "vanity_slug": "big-data"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-onboarding",
+        "vanity_slug": "kusto-detective-agency-onboarding"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "674d3dd2-d7cf-40d1-8b12-15f94541769d",
+      "image": {
+        "id": "84201552-025f-4b97-81c4-55be4ba896ff",
+        "url": "https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png"
+      },
+      "image_url": "https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-10-12T09:46:08.000-05:00",
+      "issued_at_date": "2022-10-12",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2022-10-12T09:46:35.984-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-10-12T11:53:11.195-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-10-12T10:04:56.006-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "37f4cd39-1bc4-4aa0-889a-71137888a482",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case number one.",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "cost": null,
+        "description": "Successful completion of the first Kusto Detective Agency riddle.",
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "2e1c19e5-c959-497e-b9bd-f80bc4cf7229",
+        "image": {
+          "id": "14d53c52-2701-4045-9f89-e5e510eee2fd",
+          "url": "https://images.credly.com/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png"
+        },
+        "image_url": "https://images.credly.com/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "Kusto Detective Agency - Case #1 Badge",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-case-1-badge.1",
+        "vanity_slug": "kusto-detective-agency-case-1-badge.1"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "c18255f7-99f1-468e-96a5-5c7b2c59869b",
+      "image": {
+        "id": "14d53c52-2701-4045-9f89-e5e510eee2fd",
+        "url": "https://images.credly.com/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png"
+      },
+      "image_url": "https://images.credly.com/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-10-12T10:04:49.000-05:00",
+      "issued_at_date": "2022-10-12",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2022-10-12T10:04:56.006-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-10-12T11:53:06.787-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-10-12T10:17:10.849-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "03eeba1f-3387-4fbb-a3ae-76fc9c88b438",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case number two.",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "cost": null,
+        "description": "Successful completion of the second Kusto Detective Agency riddle.",
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "9e3b9a41-d234-43e7-9ece-fe9027d29b98",
+        "image": {
+          "id": "ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3",
+          "url": "https://images.credly.com/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png"
+        },
+        "image_url": "https://images.credly.com/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "Kusto Detective Agency - Case #2 Badge",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
+            "name": "Big Data",
+            "vanity_slug": "big-data"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-case-2-badge",
+        "vanity_slug": "kusto-detective-agency-case-2-badge"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "05043c8b-fa21-411a-a812-a9434fa7bf12",
+      "image": {
+        "id": "ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3",
+        "url": "https://images.credly.com/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png"
+      },
+      "image_url": "https://images.credly.com/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-10-12T10:17:03.000-05:00",
+      "issued_at_date": "2022-10-12",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2022-10-12T10:17:10.849-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-10-12T11:53:02.136-05:00",
+      "user_is_earner": false
+    }
+  ],
+  "metadata": {
+    "count": 6,
+    "current_page": 1,
+    "next_page_url": null,
+    "per": 48,
+    "previous_page_url": null,
+    "total_count": 6,
+    "total_pages": 1
+  }
+}
