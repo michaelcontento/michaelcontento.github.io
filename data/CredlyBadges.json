@@ -78,5 +78,17 @@
     "MicrosoftIds": null,
     "Name": "Kusto Detective Agency - Case #2 Badge",
     "RemoteImageUrl": "https://images.credly.com/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/1e9a5090-e7c8-4ba5-861a-f8a621e1f07b",
+    "Description": "Successful completion of the third Kusto Detective Agency riddle.",
+    "ExpiresAt": null,
+    "Id": "1e9a5090-e7c8-4ba5-861a-f8a621e1f07b",
+    "IssuedAt": "2022-10-17",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "assets/images/CredlyBadges/1e9a5090-e7c8-4ba5-861a-f8a621e1f07b.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Agency - Case #3 Badge",
+    "RemoteImageUrl": "https://images.credly.com/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png"
   }
 ]
