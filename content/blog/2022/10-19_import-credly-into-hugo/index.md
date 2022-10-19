@@ -185,7 +185,7 @@ Was dann so aussieht:
 
 #### :tada: Tada! :tada:
 
-### :chequered_flag: Faziy
+### :chequered_flag: Fazit
 
 Wir haben unsere Abzeichen dynamisch auf unserer Seite gerendert, **ohne** sie jedes Mal manuell importieren zu müssen sobald wir ein neues Zertifikat bekommen und **ohne** dynamisches clientseitiges Javascript verwenden zu müssen.
 
