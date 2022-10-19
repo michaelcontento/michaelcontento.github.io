@@ -140,3 +140,18 @@ url = "https://github.com/MichaelContento"
 [[params.social]]
 icon = "las la-certificate" # https://icons8.com/line-awesome
 url = "https://www.credly.com/users/michael-contento"
+
+[params.giscus]
+data_repo="michaelcontento/michaelcontento.github.io"
+data_repo_id="R_kgDOIH1KxQ"
+data_category="General"
+data_category_id="DIC_kwDOIH1Kxc4CSE1h"
+data_mapping="pathname"
+data_strict="0"
+data_reactions_enabled="1"
+data_emit_metadata="0"
+data_input_position="bottom"
+data_theme="preferred_color_scheme"
+data_lang=""
+data_loading="lazy"
+crossorigin="anonymous"
