@@ -2,12 +2,12 @@
 date: "2022-09-01"
 title: "New Job? Xpirit!"
 tags: ["xpirit", "career update"]
-image: "hero.png"
+image: "blog-2022-09.png"
 ---
 
 After 20 months at [Sprengnetter] and a month vacation, I can now happily announce: **As of today, I'm part of [Xpirit] :sunglasses:**
 
-<!--more--> 
+<!--more-->
 
 I am very excited to join this team of highly experienced consultants, experts in cloud transformation with Microsoft Azure, building high-performance IT teams with DevOps and developing cloud-native software.
 
