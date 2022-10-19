@@ -155,7 +155,8 @@ This will in turn create the following files:
 
 With this we have all informations from [Credly] successfully imported into our own Git repository and we can start using them as we like.
 
-> **Notice:**
+> **:sparkles: Notice :sparkles:**
+>
 > Have a look [at the workflow file][3] of this blog for a full example.
 
 If you want to know how the [Credly2Hugo] works, simply look at the source code. It's nothing special and just some `curl` for data retrieval and `jq` to create the [Hugo] optimized metadata JSON file.

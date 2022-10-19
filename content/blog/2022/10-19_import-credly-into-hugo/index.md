@@ -153,7 +153,8 @@ Das ganze erzeugt nun folgende Dateien:
 
 Damit haben wir alle Informationen von [Credly] erfolgreich in unser eigenes Git-Repository importiert und können sie nach Belieben verwenden.
 
-> **Hinweis:**
+> **:sparkles: Hinweis :sparkles:**
+>
 > Schau einfach [in die Workflow-Datei][3] von diesem Blog für ein komplettes Beispiel
 
 Wenn du wissen willst wie [Credly2Hugo] funktioniert, dann schau einfach den Code auf GitHub. Es ist nichts besonderes, nur etwas `curl` für den Datenabruf und `jq`, um die [Hugo]-optimierte Metadaten-JSON-Datei zu erstellen.
