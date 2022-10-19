@@ -1,5 +1,5 @@
 ---
-date: "2022-10-07"
+date: "2022-10-19"
 title: "Scraping Credly with GitHub Actions"
 tags: ["github action", "credly", "microsoft"]
 image: "blog-2022-10.png"
