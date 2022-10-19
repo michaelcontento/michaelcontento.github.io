@@ -1,9 +1,10 @@
----
-date: "2022-10-19"
-title: "Scraping Credly with GitHub Actions"
-tags: ["github action", "credly", "microsoft"]
-image: "blog-2022-10.png"
----
++++
+date = "2022-10-19"
+title = "Scraping Credly with GitHub Actions"
+tags = ["github action", "credly", "microsoft"]
+image = "blog-2022-10.png"
+aliases = ["/en/blog/2022/10-github-actions-and-credly/"]
++++
 
 ### :trophy: Credly ... who?
 
@@ -140,7 +141,7 @@ But how do we implement such a step? My solution consists of two parts that play
 This new GitHub Action collects all the required informations from [Credly]. It's rather easy to use as most parameters are optional, and all you have to do is:
 
 ```yaml
-# Add this step in on of you GitHub Workflow files
+# Add this step in one of your GitHub Workflow files
 - uses: michaelcontento/credly2hugo-action@v1
   with:
     # The user of whom we want to grab the infos
@@ -154,8 +155,8 @@ This will in turn create the following files:
 
 With this we have all informations from [Credly] successfully imported into our own Git repository and we can start using them as we like.
 
-> **Notice**
-> Have a look [at the workflow file][3] of this blog for the bigger picture.
+> **Notice:**
+> Have a look [at the workflow file][3] of this blog for a full example.
 
 If you want to know how the [Credly2Hugo] works, simply look at the source code. It's nothing special and just some `curl` for data retrieval and `jq` to create the [Hugo] optimized metadata JSON file.
 

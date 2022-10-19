@@ -1,5 +1,4 @@
----
-title: "Kontakt"
-layout: "contact"
-draft: false
----
++++
+title = "Kontakt"
+layout = "contact"
++++

@@ -1,9 +1,10 @@
----
-date: "2022-10-19"
-title: "Scraping Credly mit GitHub Actions"
-tags: ["github action", "credly", "microsoft"]
-image: "blog-2022-10.png"
----
++++
+date = "2022-10-19"
+title = "Scraping Credly mit GitHub Actions"
+tags = ["github action", "credly", "microsoft"]
+image = "blog-2022-10.png"
+aliases = ["/blog/2022/10-github-actions-and-credly"]
++++
 
 ### :trophy: Credly ... wer?
 
@@ -138,7 +139,7 @@ Aber wie implementieren wir das Ganze? Meine Lösung besteht aus zwei Teilen die
 Diese neue GitHub Action sammelt alle Informationen von [Credly]. Sie ist sehr einfach zu verwenden, da die meisten Parameter optional sind und daher reicht meist:
 
 ```yaml
-# Add this step in on of you GitHub Workflow files
+# Add this step in one of your GitHub Workflow files
 - uses: michaelcontento/credly2hugo-action@v1
   with:
     # The user of whom we want to grab the infos
@@ -152,8 +153,8 @@ Das ganze erzeugt nun folgende Dateien:
 
 Damit haben wir alle Informationen von [Credly] erfolgreich in unser eigenes Git-Repository importiert und können sie nach Belieben verwenden.
 
-> **Hinweis**
-> Schau einfach [in die Workflow-Datei][3] von diesem Blog für einen kompletten Workflow
+> **Hinweis:**
+> Schau einfach [in die Workflow-Datei][3] von diesem Blog für ein komplettes Beispiel
 
 Wenn du wissen willst wie [Credly2Hugo] funktioniert, dann schau einfach den Code auf GitHub. Es ist nichts besonderes, nur etwas `curl` für den Datenabruf und `jq`, um die [Hugo]-optimierte Metadaten-JSON-Datei zu erstellen.
 
@@ -188,7 +189,7 @@ Was dann so aussieht:
 
 Wir haben unsere Abzeichen dynamisch auf unserer Seite gerendert, **ohne** sie jedes Mal manuell importieren zu müssen sobald wir ein neues Zertifikat bekommen und **ohne** dynamisches clientseitiges Javascript verwenden zu müssen.
 
-Alles ist reines Hugo Server Side Rendering :sonnenbrille:
+Alles ist reines Hugo Server Side Rendering :sunglasses:
 
 Und alles ist in Code als [GitHub Actions] automatisiert, alles wird in Git gespeichert und als ganz kleines Goodie bekommen wir auch noch eine "Zertifikatshistory" gratis dazu :joy:
 

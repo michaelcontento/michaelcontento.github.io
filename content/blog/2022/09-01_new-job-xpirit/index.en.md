@@ -1,9 +1,10 @@
----
-date: "2022-09-01"
-title: "New Job? Xpirit!"
-tags: ["xpirit", "career update"]
-image: "blog-2022-09.png"
----
++++
+date = "2022-09-01"
+title = "New Job? Xpirit!"
+tags = ["xpirit", "career update"]
+image = "blog-2022-09.png"
+aliases = ["/en/blog/2022/09-xpirit-ist-es-geworden/"]
++++
 
 After 20 months at [Sprengnetter] and a month vacation, I can now happily announce: **As of today, I'm part of [Xpirit] :sunglasses:**
 
