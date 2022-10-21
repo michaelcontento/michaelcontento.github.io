@@ -144,6 +144,10 @@ url = "https://github.com/MichaelContento"
 icon = "las la-certificate" # https://icons8.com/line-awesome
 url = "https://www.credly.com/users/michael-contento"
 
+[params.plausible]
+enable = true
+domain = "michaelcontento.de"
+
 [params.giscus]
 data_repo="michaelcontento/michaelcontento.github.io"
 data_repo_id="R_kgDOIH1KxQ"
