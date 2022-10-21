@@ -1,6 +1,145 @@
 {
   "data": [
     {
+      "accepted_at": "2022-09-13T09:39:15.902-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "ee388890-5ffa-4a4e-99cd-2feea5803abe",
+            "required_badge_template_id": null,
+            "title": "Pass Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/dp-420"
+          }
+        ],
+        "cost": null,
+        "description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
+        "earn_this_badge_url": null,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-cosmos-db-developer-specialty/",
+        "id": "d8029d6f-76de-441c-87cd-bda32717fdc8",
+        "image": {
+          "id": "515fa1dc-ac4a-4f08-ac73-6fd9694124cb",
+          "url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
+        },
+        "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "id": "9448f54d-65a6-48b7-8944-9bfa8538f15c",
+            "name": "Azure Cosmos DB",
+            "vanity_slug": "azure-cosmos-db"
+          },
+          {
+            "id": "3497297f-f85f-4f1e-845a-356fd4d11d47",
+            "name": "C#",
+            "vanity_slug": "c"
+          },
+          {
+            "id": "37229bc7-1a4e-478d-b834-17402ba02862",
+            "name": "Cloud Data",
+            "vanity_slug": "cloud-data"
+          },
+          {
+            "id": "e39b02b6-da5a-43dd-a1f2-370581747653",
+            "name": "Cloud Developer",
+            "vanity_slug": "cloud-developer"
+          },
+          {
+            "id": "4e2c8d6a-1839-4a73-bb99-2cfe3b574100",
+            "name": "Java",
+            "vanity_slug": "java"
+          },
+          {
+            "id": "c624f943-6575-4618-96ce-8fdd35609851",
+            "name": "NoSQL",
+            "vanity_slug": "nosql"
+          },
+          {
+            "id": "94c11ea3-cc1b-4177-9f1e-f98291a69850",
+            "name": "Python",
+            "vanity_slug": "python"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-cosmos-db-developer-specialty",
+        "vanity_slug": "microsoft-certified-azure-cosmos-db-developer-specialty"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2023-09-13T18:59:59.000-05:00",
+      "expires_at_date": "2023-09-13",
+      "id": "99fa5c94-1ed1-440c-b55a-013ea2a8d181",
+      "image": {
+        "id": "515fa1dc-ac4a-4f08-ac73-6fd9694124cb",
+        "url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
+      },
+      "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-09-13T01:50:41.000-05:00",
+      "issued_at_date": "2022-09-13",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2022-09-13T09:39:15.902-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-09-13T09:39:15.902-05:00",
+      "user_is_earner": false
+    },
+    {
       "accepted_at": "2022-09-22T01:22:08.121-05:00",
       "badge_template": {
         "alignments": [],
@@ -489,145 +628,6 @@
       "state": "accepted",
       "translate_metadata": false,
       "updated_at": "2022-10-12T11:53:11.195-05:00",
-      "user_is_earner": false
-    },
-    {
-      "accepted_at": "2022-09-13T09:39:15.902-05:00",
-      "badge_template": {
-        "alignments": [],
-        "badge_template_activities": [
-          {
-            "activity_type": "Credential",
-            "id": "ee388890-5ffa-4a4e-99cd-2feea5803abe",
-            "required_badge_template_id": null,
-            "title": "Pass Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB",
-            "url": "https://docs.microsoft.com/learn/certifications/exams/dp-420"
-          }
-        ],
-        "cost": null,
-        "description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
-        "earn_this_badge_url": null,
-        "enable_earn_this_badge": false,
-        "endorsements": [],
-        "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-cosmos-db-developer-specialty/",
-        "id": "d8029d6f-76de-441c-87cd-bda32717fdc8",
-        "image": {
-          "id": "515fa1dc-ac4a-4f08-ac73-6fd9694124cb",
-          "url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
-        },
-        "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
-        "issuer": {
-          "entities": [
-            {
-              "entity": {
-                "id": "1392f199-abe0-4698-92b5-834610af6baf",
-                "internationalize_badge_templates": false,
-                "name": "Microsoft",
-                "share_to_ziprecruiter": true,
-                "type": "Organization",
-                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
-                "vanity_url": "https://www.credly.com/org/microsoft-certification",
-                "verified": false
-              },
-              "label": "Issued by",
-              "primary": true
-            }
-          ],
-          "summary": "issued by Microsoft"
-        },
-        "level": null,
-        "name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
-        "show_badge_lmi": true,
-        "show_skill_tag_links": true,
-        "skills": [
-          {
-            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
-            "name": "Azure",
-            "vanity_slug": "azure"
-          },
-          {
-            "id": "9448f54d-65a6-48b7-8944-9bfa8538f15c",
-            "name": "Azure Cosmos DB",
-            "vanity_slug": "azure-cosmos-db"
-          },
-          {
-            "id": "3497297f-f85f-4f1e-845a-356fd4d11d47",
-            "name": "C#",
-            "vanity_slug": "c"
-          },
-          {
-            "id": "37229bc7-1a4e-478d-b834-17402ba02862",
-            "name": "Cloud Data",
-            "vanity_slug": "cloud-data"
-          },
-          {
-            "id": "e39b02b6-da5a-43dd-a1f2-370581747653",
-            "name": "Cloud Developer",
-            "vanity_slug": "cloud-developer"
-          },
-          {
-            "id": "4e2c8d6a-1839-4a73-bb99-2cfe3b574100",
-            "name": "Java",
-            "vanity_slug": "java"
-          },
-          {
-            "id": "c624f943-6575-4618-96ce-8fdd35609851",
-            "name": "NoSQL",
-            "vanity_slug": "nosql"
-          },
-          {
-            "id": "94c11ea3-cc1b-4177-9f1e-f98291a69850",
-            "name": "Python",
-            "vanity_slug": "python"
-          }
-        ],
-        "time_to_earn": null,
-        "translatable": false,
-        "type_category": null,
-        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-cosmos-db-developer-specialty",
-        "vanity_slug": "microsoft-certified-azure-cosmos-db-developer-specialty"
-      },
-      "earner_path": "/users/michael-contento",
-      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
-      "evidence": [],
-      "expires_at": "2023-09-13T18:59:59.000-05:00",
-      "expires_at_date": "2023-09-13",
-      "id": "99fa5c94-1ed1-440c-b55a-013ea2a8d181",
-      "image": {
-        "id": "515fa1dc-ac4a-4f08-ac73-6fd9694124cb",
-        "url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
-      },
-      "image_url": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png",
-      "is_private_badge": false,
-      "issued_at": "2022-09-13T01:50:41.000-05:00",
-      "issued_at_date": "2022-09-13",
-      "issued_to": "Michael Contento",
-      "issuer": {
-        "entities": [
-          {
-            "entity": {
-              "id": "1392f199-abe0-4698-92b5-834610af6baf",
-              "internationalize_badge_templates": false,
-              "name": "Microsoft",
-              "share_to_ziprecruiter": true,
-              "type": "Organization",
-              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
-              "vanity_url": "https://www.credly.com/org/microsoft-certification",
-              "verified": false
-            },
-            "label": "Issued by",
-            "primary": true
-          }
-        ],
-        "summary": "issued by Microsoft"
-      },
-      "last_updated_at": "2022-09-13T09:39:15.902-05:00",
-      "locale": "en",
-      "public": true,
-      "recommendations": [],
-      "state": "accepted",
-      "translate_metadata": false,
-      "updated_at": "2022-09-13T09:39:15.902-05:00",
       "user_is_earner": false
     },
     {
