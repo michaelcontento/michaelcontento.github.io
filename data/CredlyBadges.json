@@ -30,6 +30,18 @@
     "RemoteImageUrl": "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
   },
   {
+    "CredlyUrl": "https://www.credly.com/badges/674d3dd2-d7cf-40d1-8b12-15f94541769d",
+    "Description": "Completion of the successful onboarding as a new Kusto detective.",
+    "ExpiresAt": null,
+    "Id": "674d3dd2-d7cf-40d1-8b12-15f94541769d",
+    "IssuedAt": "2022-10-12",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/674d3dd2-d7cf-40d1-8b12-15f94541769d.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Agency - Onboarding",
+    "RemoteImageUrl": "https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png"
+  },
+  {
     "CredlyUrl": "https://www.credly.com/badges/99fa5c94-1ed1-440c-b55a-013ea2a8d181",
     "Description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
     "ExpiresAt": "2023-09-13",
@@ -42,18 +54,6 @@
     ],
     "Name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
     "RemoteImageUrl": "https://images.credly.com/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png"
-  },
-  {
-    "CredlyUrl": "https://www.credly.com/badges/674d3dd2-d7cf-40d1-8b12-15f94541769d",
-    "Description": "Completion of the successful onboarding as a new Kusto detective.",
-    "ExpiresAt": null,
-    "Id": "674d3dd2-d7cf-40d1-8b12-15f94541769d",
-    "IssuedAt": "2022-10-12",
-    "IssuerUrl": "https://detective.kusto.io",
-    "LocalImagePath": "images/CredlyBadges/674d3dd2-d7cf-40d1-8b12-15f94541769d.png",
-    "MicrosoftIds": null,
-    "Name": "Kusto Detective Agency - Onboarding",
-    "RemoteImageUrl": "https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png"
   },
   {
     "CredlyUrl": "https://www.credly.com/badges/c18255f7-99f1-468e-96a5-5c7b2c59869b",
