@@ -986,15 +986,386 @@
       "translate_metadata": false,
       "updated_at": "2022-10-16T23:29:07.247-05:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-10-27T02:01:19.406-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "558be5bf-2bf8-4d31-afc1-ab8e88deee1a",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "dce06a0e-b9af-46ca-ac19-a38511ad9e41",
+            "required_badge_template_id": null,
+            "title": "- Configure processes and communications",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "411a036f-302c-41b9-8de2-62212ce393ab",
+            "required_badge_template_id": null,
+            "title": "- Design and implement source control",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "bfe46b50-3590-4c23-9079-0c0722a9d009",
+            "required_badge_template_id": null,
+            "title": "- Develop a security and compliance plan",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "1cbaf6bc-84e3-4080-bb31-080949582e60",
+            "required_badge_template_id": null,
+            "title": "- Implement an instrumentation strategy",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "f3562b65-3add-4b8b-9f4b-1414e3996323",
+            "required_badge_template_id": null,
+            "title": "- Design and implement build and release pipelines",
+            "url": null
+          }
+        ],
+        "cost": null,
+        "description": "Passing exam AZ-400: Designing and Implementing Microsoft DevOps Solutions validates the skills and knowledge to combine people, processes, and technologies to deliver valuable products and services that meet end-user needs and business objectives. Candidates optimize practices, improve communications, and create automation to streamline delivery. They design and implement strategies for application code and infrastructure for continuous integration, testing, delivery, monitoring and feedback.",
+        "earn_this_badge_url": null,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": "https://docs.microsoft.com/learn/certifications/exams/az-400",
+        "id": "98dc3b7d-0a6d-43d6-92a6-8f71f8ab4700",
+        "image": {
+          "id": "107e2eb6-f394-40eb-83d2-d8c9b7d34555",
+          "url": "https://images.credly.com/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
+        },
+        "image_url": "https://images.credly.com/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "377d1202-560c-467b-b263-3bbb637667a4",
+            "name": "Agile",
+            "vanity_slug": "agile"
+          },
+          {
+            "id": "e5ce1e60-c5ec-4b6f-9843-63cd36165334",
+            "name": "Application Infrastructure",
+            "vanity_slug": "application-infrastructure"
+          },
+          {
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "id": "6720d529-d798-4291-a2e5-a9f9a3b95ff4",
+            "name": "Azure Administrator",
+            "vanity_slug": "azure-administrator"
+          },
+          {
+            "id": "1346abe5-ddc2-4f13-82a4-ce3a5f9fa874",
+            "name": "Azure Developer",
+            "vanity_slug": "azure-developer"
+          },
+          {
+            "id": "22a40926-e28d-4062-a5e4-0b40cf473a78",
+            "name": "Azure DevOps",
+            "vanity_slug": "azure-devops"
+          },
+          {
+            "id": "96a70f5c-fece-4d56-a319-bb151cf005f9",
+            "name": "Azure Subscriptions",
+            "vanity_slug": "azure-subscriptions"
+          },
+          {
+            "id": "3fa750a1-613e-4b51-88c8-42e18a2a8ce7",
+            "name": "Cloud",
+            "vanity_slug": "cloud"
+          },
+          {
+            "id": "047ebc52-ba7a-4089-8a94-eb18a746afc0",
+            "name": "Continuous Delivery",
+            "vanity_slug": "continuous-delivery"
+          },
+          {
+            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
+            "name": "Continuous Integration",
+            "vanity_slug": "continuous-integration"
+          },
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/az-400-designing-and-implementing-microsoft-devops-solutions",
+        "vanity_slug": "az-400-designing-and-implementing-microsoft-devops-solutions"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "bb214816-f239-447b-a0b9-09594fa4192b",
+      "image": {
+        "id": "107e2eb6-f394-40eb-83d2-d8c9b7d34555",
+        "url": "https://images.credly.com/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
+      },
+      "image_url": "https://images.credly.com/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png",
+      "is_private_badge": false,
+      "issued_at": "2022-10-27T01:04:21.000-05:00",
+      "issued_at_date": "2022-10-27",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2022-10-27T02:01:19.428-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-10-27T02:01:19.428-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-10-27T02:21:12.769-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "d6bbb60f-8f54-4f45-a3aa-d1abef4979ba",
+            "required_badge_template_id": null,
+            "title": "EARN ONE OF THE FOLLOWING ASSOCIATE CERTIFICATIONS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "eb02c56c-94a6-48ae-81b8-1732b7545568",
+            "required_badge_template_id": null,
+            "title": "- Microsoft Certified: Azure Administrator Associate",
+            "url": "https://docs.microsoft.com/learn/certifications/azure-administrator"
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "cbff940f-3f30-4daf-a21c-8a85b514c902",
+            "required_badge_template_id": null,
+            "title": "- Microsoft Certified: Azure Developer Associate",
+            "url": "https://docs.microsoft.com/learn/certifications/azure-developer"
+          },
+          {
+            "activity_type": "Credential",
+            "id": "f33ce894-9ffb-492b-bff9-7afdb9a5ab9c",
+            "required_badge_template_id": null,
+            "title": "AND PASS EXAM AZ-400:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "012525b5-bf8b-4f31-a1f3-4290015cb763",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-400"
+          }
+        ],
+        "cost": null,
+        "description": "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.",
+        "earn_this_badge_url": null,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-devops",
+        "id": "75339c01-b2e6-46f2-bfae-05ff47006499",
+        "image": {
+          "id": "c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca",
+          "url": "https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+        },
+        "image_url": "https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "Microsoft Certified: DevOps Engineer Expert",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "377d1202-560c-467b-b263-3bbb637667a4",
+            "name": "Agile",
+            "vanity_slug": "agile"
+          },
+          {
+            "id": "e5ce1e60-c5ec-4b6f-9843-63cd36165334",
+            "name": "Application Infrastructure",
+            "vanity_slug": "application-infrastructure"
+          },
+          {
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "id": "6720d529-d798-4291-a2e5-a9f9a3b95ff4",
+            "name": "Azure Administrator",
+            "vanity_slug": "azure-administrator"
+          },
+          {
+            "id": "1346abe5-ddc2-4f13-82a4-ce3a5f9fa874",
+            "name": "Azure Developer",
+            "vanity_slug": "azure-developer"
+          },
+          {
+            "id": "22a40926-e28d-4062-a5e4-0b40cf473a78",
+            "name": "Azure DevOps",
+            "vanity_slug": "azure-devops"
+          },
+          {
+            "id": "96a70f5c-fece-4d56-a319-bb151cf005f9",
+            "name": "Azure Subscriptions",
+            "vanity_slug": "azure-subscriptions"
+          },
+          {
+            "id": "3fa750a1-613e-4b51-88c8-42e18a2a8ce7",
+            "name": "Cloud",
+            "vanity_slug": "cloud"
+          },
+          {
+            "id": "047ebc52-ba7a-4089-8a94-eb18a746afc0",
+            "name": "Continuous Delivery",
+            "vanity_slug": "continuous-delivery"
+          },
+          {
+            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
+            "name": "Continuous Integration",
+            "vanity_slug": "continuous-integration"
+          },
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-devops-engineer-expert",
+        "vanity_slug": "microsoft-certified-devops-engineer-expert"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2023-10-27T18:59:59.000-05:00",
+      "expires_at_date": "2023-10-27",
+      "id": "7415d048-a214-4237-93d2-84fe0dcd64f3",
+      "image": {
+        "id": "c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca",
+        "url": "https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+      },
+      "image_url": "https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png",
+      "is_private_badge": false,
+      "issued_at": "2022-10-27T01:04:21.000-05:00",
+      "issued_at_date": "2022-10-27",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2022-10-27T02:21:12.781-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-10-27T02:21:12.781-05:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 7,
+    "count": 9,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 7,
+    "total_count": 9,
     "total_pages": 1
   }
 }

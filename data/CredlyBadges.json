@@ -90,5 +90,33 @@
     "MicrosoftIds": null,
     "Name": "Kusto Detective Agency - Case #3 Badge",
     "RemoteImageUrl": "https://images.credly.com/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/bb214816-f239-447b-a0b9-09594fa4192b",
+    "Description": "Passing exam AZ-400: Designing and Implementing Microsoft DevOps Solutions validates the skills and knowledge to combine people, processes, and technologies to deliver valuable products and services that meet end-user needs and business objectives. Candidates optimize practices, improve communications, and create automation to streamline delivery. They design and implement strategies for application code and infrastructure for continuous integration, testing, delivery, monitoring and feedback.",
+    "ExpiresAt": null,
+    "Id": "bb214816-f239-447b-a0b9-09594fa4192b",
+    "IssuedAt": "2022-10-27T01:04:21.000-05:00",
+    "IssuerUrl": "https://docs.microsoft.com/learn/certifications/exams/az-400",
+    "LocalImagePath": "images/CredlyBadges/bb214816-f239-447b-a0b9-09594fa4192b.png",
+    "MicrosoftIds": [],
+    "Name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+    "RemoteImageUrl": "https://images.credly.com/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/7415d048-a214-4237-93d2-84fe0dcd64f3",
+    "Description": "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.",
+    "ExpiresAt": "2023-10-27T18:59:59.000-05:00",
+    "Id": "7415d048-a214-4237-93d2-84fe0dcd64f3",
+    "IssuedAt": "2022-10-27T01:04:21.000-05:00",
+    "IssuerUrl": "https://docs.microsoft.com/learn/certifications/azure-devops",
+    "LocalImagePath": "images/CredlyBadges/7415d048-a214-4237-93d2-84fe0dcd64f3.png",
+    "MicrosoftIds": [
+      "AZURE-ADMINISTRATOR",
+      "AZURE-DEVELOPER",
+      "AZ-400"
+    ],
+    "Name": "Microsoft Certified: DevOps Engineer Expert",
+    "RemoteImageUrl": "https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
   }
 ]
