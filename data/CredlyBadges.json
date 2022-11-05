@@ -130,5 +130,17 @@
     "MicrosoftIds": null,
     "Name": "Kusto Detective Agency - Case #4 Badge",
     "RemoteImageUrl": "https://images.credly.com/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/dc027e9c-831d-4dd3-8c66-7ddf125e09e7",
+    "Description": "Passing the GitHub Actions certification exam validates subject matter expertise with applying continuous integration/continuous delivery (CI/CD) patterns and practices using GitHub Actions in the enterprise.",
+    "ExpiresAt": "2024-11-04T17:59:59.000-06:00",
+    "Id": "dc027e9c-831d-4dd3-8c66-7ddf125e09e7",
+    "IssuedAt": "2022-11-03T23:41:48.000-05:00",
+    "IssuerUrl": null,
+    "LocalImagePath": "images/CredlyBadges/dc027e9c-831d-4dd3-8c66-7ddf125e09e7.png",
+    "MicrosoftIds": null,
+    "Name": "GitHub Actions",
+    "RemoteImageUrl": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
   }
 ]

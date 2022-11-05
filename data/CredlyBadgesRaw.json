@@ -1476,15 +1476,177 @@
       "translate_metadata": false,
       "updated_at": "2022-10-30T18:09:27.754-05:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2022-11-04T10:12:09.127-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "f183ecc1-4539-44b9-82be-c28994ba584b",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "d2a6a95b-19dc-4060-a40a-884312ce4211",
+            "required_badge_template_id": null,
+            "title": "Author and maintain workflows",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "6215b20a-da36-43b1-9eb5-d4318cf43122",
+            "required_badge_template_id": null,
+            "title": "Consume workflows",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "c98f5352-0a1e-4c19-8992-8cedd2bc3bd4",
+            "required_badge_template_id": null,
+            "title": "Author and maintain actions",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "a6cbdfeb-43f7-4bb0-b94a-1857fb134449",
+            "required_badge_template_id": null,
+            "title": "Manage GitHub Actions for the enterprise",
+            "url": null
+          }
+        ],
+        "cost": "Paid",
+        "description": "Passing the GitHub Actions certification exam validates subject matter expertise with applying continuous integration/continuous delivery (CI/CD) patterns and practices using GitHub Actions in the enterprise.",
+        "earn_this_badge_url": null,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": null,
+        "id": "999453c9-0d2b-4a4e-b82c-ed1c89bc56ee",
+        "image": {
+          "id": "50ac5cb1-f13a-4859-a480-a567f3bad4ca",
+          "url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+        },
+        "image_url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "63074953-290b-4dce-86ce-ea04b4187219",
+                "internationalize_badge_templates": false,
+                "name": "GitHub",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+                "vanity_url": "https://www.credly.com/org/github",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by GitHub"
+        },
+        "level": "Intermediate",
+        "name": "GitHub Actions",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "1349859b-7d0a-4bd9-9757-5182d2f84f9e",
+            "name": "Build Pipeline",
+            "vanity_slug": "build-pipeline"
+          },
+          {
+            "id": "047ebc52-ba7a-4089-8a94-eb18a746afc0",
+            "name": "Continuous Delivery",
+            "vanity_slug": "continuous-delivery"
+          },
+          {
+            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
+            "name": "Continuous Integration",
+            "vanity_slug": "continuous-integration"
+          },
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          },
+          {
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
+          },
+          {
+            "id": "041eebbd-c559-4a39-a1d7-8d1d4a39d0ee",
+            "name": "GitHub Actions",
+            "vanity_slug": "github-actions"
+          },
+          {
+            "id": "cf2e9f5c-d82e-40ec-b0c5-ecb9658faaf8",
+            "name": "Release Management",
+            "vanity_slug": "release-management"
+          }
+        ],
+        "time_to_earn": "Days",
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/github/badge/github-actions",
+        "vanity_slug": "github-actions"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2024-11-04T17:59:59.000-06:00",
+      "expires_at_date": "2024-11-04",
+      "id": "dc027e9c-831d-4dd3-8c66-7ddf125e09e7",
+      "image": {
+        "id": "50ac5cb1-f13a-4859-a480-a567f3bad4ca",
+        "url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+      },
+      "image_url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png",
+      "is_private_badge": false,
+      "issued_at": "2022-11-03T23:41:48.000-05:00",
+      "issued_at_date": "2022-11-04",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "63074953-290b-4dce-86ce-ea04b4187219",
+              "internationalize_badge_templates": false,
+              "name": "GitHub",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+              "vanity_url": "https://www.credly.com/org/github",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by GitHub"
+      },
+      "last_updated_at": "2022-11-04T10:12:09.127-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2022-11-04T10:12:09.128-05:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 10,
+    "count": 11,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 10,
+    "total_count": 11,
     "total_pages": 1
   }
 }
