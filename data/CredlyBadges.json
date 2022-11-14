@@ -142,5 +142,17 @@
     "MicrosoftIds": null,
     "Name": "GitHub Actions",
     "RemoteImageUrl": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/d02b5ad4-fab0-486c-be55-97e9ab5c44f2",
+    "Description": "Successful completion of the fifth Kusto Detective Agency riddle.",
+    "ExpiresAt": null,
+    "Id": "d02b5ad4-fab0-486c-be55-97e9ab5c44f2",
+    "IssuedAt": "2022-11-13T14:32:33.000-06:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/d02b5ad4-fab0-486c-be55-97e9ab5c44f2.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Agency - Case #5 Badge",
+    "RemoteImageUrl": "https://images.credly.com/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png"
   }
 ]
