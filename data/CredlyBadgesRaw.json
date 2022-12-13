@@ -156,23 +156,7 @@
         "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
         "earn_this_badge_url": null,
         "enable_earn_this_badge": false,
-        "endorsements": [
-          {
-            "description": "This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 2 college credits. For more information about ACE CREDIT evaluations, visit www.acenet.edu.",
-            "endorser": {
-              "id": "775db26b-6444-410d-b704-ac99df9cdb00",
-              "image": {
-                "id": "59a19ea5-a54e-4d0d-9bcc-811f363ca12a",
-                "url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png"
-              },
-              "image_url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png",
-              "name": "American Council on Education",
-              "url": "https://www.credly.com/org/american-council-on-education-credit"
-            },
-            "id": "a98da843-5155-494a-a593-946f0e5fe70c",
-            "url": "https://www.acenet.edu/National-Guide/Pages/Organization.aspx?oid=46099b28-9016-e811-810f-5065f38bf0e1"
-          }
-        ],
+        "endorsements": [],
         "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-fundamentals/",
         "id": "e0997fd0-d532-4ba0-a8a7-ee6cc6c7b8e9",
         "image": {
@@ -348,23 +332,7 @@
         "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
         "earn_this_badge_url": null,
         "enable_earn_this_badge": false,
-        "endorsements": [
-          {
-            "description": "This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 2 college credits. For more information about ACE CREDIT evaluations, visit www.acenet.edu.",
-            "endorser": {
-              "id": "775db26b-6444-410d-b704-ac99df9cdb00",
-              "image": {
-                "id": "59a19ea5-a54e-4d0d-9bcc-811f363ca12a",
-                "url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png"
-              },
-              "image_url": "https://images.credly.com/images/59a19ea5-a54e-4d0d-9bcc-811f363ca12a/blob.png",
-              "name": "American Council on Education",
-              "url": "https://www.credly.com/org/american-council-on-education-credit"
-            },
-            "id": "d07489b1-d06b-4a79-bfa6-22b38ab046a0",
-            "url": "https://www.acenet.edu/National-Guide/Pages/Organization.aspx?oid=46099b28-9016-e811-810f-5065f38bf0e1"
-          }
-        ],
+        "endorsements": [],
         "global_activity_url": "https://docs.microsoft.com/learn/certifications/azure-administrator",
         "id": "5d5e9746-b762-41b3-afc0-df3ffc6bfaa3",
         "image": {
