@@ -154,5 +154,17 @@
     "MicrosoftIds": null,
     "Name": "Kusto Detective Agency - Case #5 Badge",
     "RemoteImageUrl": "https://images.credly.com/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/9b68fed4-accc-4615-8ad9-07630adf6cca",
+    "Description": "The ultimate badge for the ultimate Kusto detective!",
+    "ExpiresAt": null,
+    "Id": "9b68fed4-accc-4615-8ad9-07630adf6cca",
+    "IssuedAt": "2022-12-17T04:08:02.000-06:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/9b68fed4-accc-4615-8ad9-07630adf6cca.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Agency - Complete",
+    "RemoteImageUrl": "https://images.credly.com/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png"
   }
 ]
