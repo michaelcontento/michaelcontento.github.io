@@ -144,6 +144,10 @@ url = "https://github.com/MichaelContento"
 icon = "las la-certificate" # https://icons8.com/line-awesome
 url = "https://www.credly.com/users/michael-contento"
 
+[[params.social]]
+icon = "las la-bullhorn" # https://icons8.com/line-awesome
+url = "https://sessionize.com/michaelcontento/"
+
 [params.plausible]
 enable = true
 domain = "michaelcontento.de"
