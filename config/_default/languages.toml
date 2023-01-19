@@ -1,9 +1,0 @@
-[de]
-languageName = ":de:"
-languageCode = "de-DE"
-weight = 10
-
-[en]
-languageName = ":us:"
-languageCode = "en-US"
-weight = 20

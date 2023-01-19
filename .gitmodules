@@ -1,4 +1,0 @@
-[submodule "themes/bookworm-light"]
-	path = themes/bookworm-light
-	url = git@github.com:michaelcontento/bookworm-light.git
-	branch = features/michael
