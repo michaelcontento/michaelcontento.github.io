@@ -1,0 +1,13 @@
+<div class="flex" class="w-auto">
+{{ range first 3 .Site.Data.CredlyBadges }}
+    {{ $credly := . }}
+    {{ $image := (resources.Get .LocalImagePath).Resize "150x" }}
+
+    <img
+        class="mx-auto my-0 rounded-md"
+        src="{{ $image.RelPermalink }}"
+        width="{{ $image.Width }}"
+        height="{{ $image.Height }}"
+        alt="{{ $credly.Description }}">
+{{ end }}
+</div>

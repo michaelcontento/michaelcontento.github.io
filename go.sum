@@ -1,2 +1,6 @@
 github.com/jpanther/congo/v2 v2.5.0 h1:eAnZFSsY9C0buQmyRVtIR7WAl2sHZEn5LXYvwS7BsxI=
 github.com/jpanther/congo/v2 v2.5.0/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
+github.com/jpanther/congo/v2 v2.5.2 h1:cSM6cnBfbsSN9uYIKXjnyudZDWK+OWWVPVlFmkQQSGE=
+github.com/jpanther/congo/v2 v2.5.2/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
+github.com/razonyang/hugo-mod-giscus v1.3.1 h1:/7ojODfEV6gfdWLeUuYNlru3tcrUO7k/t5J//pNS9Ro=
+github.com/razonyang/hugo-mod-giscus v1.3.1/go.mod h1:r3tKVPIdUg0xZbAfXZt8pMvwYpxkTT+J0q582qaZV38=

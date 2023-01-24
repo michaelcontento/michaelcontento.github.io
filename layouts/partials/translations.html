@@ -1,0 +1,17 @@
+{{ if .IsTranslated }}
+<ul class="flex flex-row list-none">
+    {{ $siteLanguages := site.Languages}}
+    {{ $pageLang := .Page.Lang}}
+    <select class="m-2 me-0 border-0 bg-transparent select-language d-none d-lg-inline-block" id="select-language" onchange="location=this.value">
+    {{ range .AllTranslations }}
+        {{ if eq $pageLang .Lang}}
+            <option id="{{ .Language.Params.languageCode }}" value="{{ .RelPermalink }}" selected>
+        {{ else }}
+            <option id="{{ .Language.Params.languageCode }}" value="{{ .RelPermalink }}">
+        {{ end }}
+            {{ .Language.Params.displayName | emojify }}
+        </option>
+    {{ end }}
+    </select>
+</ul>
+{{ end }}

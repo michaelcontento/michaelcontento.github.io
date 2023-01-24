@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
-displayName = ":us:"
-isoCode = "en"
-weight = 20
+languageCode = "de"
+languageName = "Deutsch"
+displayName = ":de:"
+isoCode = "de"
+weight = 10
 rtl = false
 
-title = "Home"
+title = ""
 # description = "My awesome website"
 copyright = "Copyright © Michael Contento"
 
