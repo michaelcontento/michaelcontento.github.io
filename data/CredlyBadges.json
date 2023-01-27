@@ -166,5 +166,17 @@
     "MicrosoftIds": null,
     "Name": "Kusto Detective Agency - Complete",
     "RemoteImageUrl": "https://images.credly.com/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/09ac07fa-ae75-4d26-94b1-86560210d872",
+    "Description": "Passing the GitHub Administration certification exam validates subject matter expertise with the deployment and administration of GitHub Enterprise as well as how to provide support for GitHub users in the enterprise.",
+    "ExpiresAt": "2025-01-26T17:59:59.000-06:00",
+    "Id": "09ac07fa-ae75-4d26-94b1-86560210d872",
+    "IssuedAt": "2023-01-25T23:33:45.000-06:00",
+    "IssuerUrl": null,
+    "LocalImagePath": "images/CredlyBadges/09ac07fa-ae75-4d26-94b1-86560210d872.png",
+    "MicrosoftIds": null,
+    "Name": "GitHub Administration",
+    "RemoteImageUrl": "https://images.credly.com/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
   }
 ]
