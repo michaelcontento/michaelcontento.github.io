@@ -64,14 +64,14 @@ jobs:
           npm install
           npm run data-upload -- -c \
             -f ../public/index.json \
-            -a ${{ env.ALGOLIA_APP_ID }} \
+            -a ${{ vars.ALGOLIA_APP_ID }} \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
-            -n ${{ env.ALGOLIA_INDEX_NAME }}
+            -n ${{ vars.ALGOLIA_INDEX_NAME }}
           npm run data-upload -- -c \
             -f ../public/en/index.json \
-            -a ${{ env.ALGOLIA_APP_ID }} \
+            -a ${{ vars.ALGOLIA_APP_ID }} \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
-            -n ${{ env.ALGOLIA_INDEX_NAME }}
+            -n ${{ vars.ALGOLIA_INDEX_NAME }}
 
   deploy:
     environment:
