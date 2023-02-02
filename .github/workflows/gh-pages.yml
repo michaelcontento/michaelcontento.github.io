@@ -58,21 +58,6 @@ jobs:
         with:
           path: ./public
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
-
-  algolia:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: Upload Data
         working-directory: ./algolia
         run: |
@@ -87,3 +72,14 @@ jobs:
             -a ${{ env.ALGOLIA_APP_ID }} \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
             -n ${{ env.ALGOLIA_INDEX_NAME }}
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
