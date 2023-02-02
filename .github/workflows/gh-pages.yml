@@ -62,12 +62,13 @@ jobs:
         working-directory: ./algolia
         run: |
           npm install
-          npm run data-upload -- -c \
+          npm run data-upload -- \
+            -c \
             -f ../public/index.json \
             -a ${{ vars.ALGOLIA_APP_ID }} \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
             -n ${{ vars.ALGOLIA_INDEX_NAME }}
-          npm run data-upload -- -c \
+          npm run data-upload -- \
             -f ../public/en/index.json \
             -a ${{ vars.ALGOLIA_APP_ID }} \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
