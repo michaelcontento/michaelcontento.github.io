@@ -8,7 +8,7 @@ readingTime: 0
 
 <form action="https://formspree.io/f/myyvjzzp" method="post">
     <div>
-        <label for="name">Full Name</label>
+        <label for="name">Name</label>
         <input type="text" id="name" name="name" required="">
     </div>
     <div>
@@ -16,15 +16,15 @@ readingTime: 0
         <input type="email" id="email" name="email" required="">
     </div>
     <div>
-        <label for="subject">Subject</label>
+        <label for="subject">Betreff</label>
         <input type="text" id="subject" name="subject" required="">
     </div>
     <div>
-        <label for="message">Message</label>
+        <label for="message">Nachricht</label>
         <textarea id="message" rows="4" name="message" required=""></textarea>
     </div>
-    <button type="submit" aria-label="Send Message">
-        Send Now
+    <button type="submit" aria-label="Absenden">
+        Absenden
     </button>
 </form>
 <style>
