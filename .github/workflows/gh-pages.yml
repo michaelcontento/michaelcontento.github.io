@@ -25,7 +25,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v3
 
       - name: Build
         env:
@@ -61,6 +61,7 @@ jobs:
             -n ${{ vars.ALGOLIA_INDEX_NAME }}
 
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -68,6 +69,5 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/main'
         id: deployment
         uses: actions/deploy-pages@v1
