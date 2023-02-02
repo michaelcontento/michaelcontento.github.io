@@ -163,7 +163,6 @@ disqusShortname = ""
     creditsText = "Impressum"
     creditsUrl = "/page/imprint"
 
-
 # customize your available languages for your multi-lingual site
 # or delete one of the [Languages.xx] blocks to use the theme with only one supported language
 [Languages]
