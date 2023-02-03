@@ -1,0 +1,26 @@
+flowchart TB
+
+HugoBuild[[hugo build]]
+Credly[(Credly)]
+GitRepo[(Git Repo<br><i>Branch: main</i>)]
+GitHubPages([GitHub Pages])
+GitHubPagesA([GitHub Pages])
+GitGhPages[(Git Repo<br><i>Branch: gh-pages</i>)]
+
+subgraph d["(3) Customer"]
+    direction TB
+    Visitor -- Visits --> GitHubPagesA;
+end
+
+subgraph c["(2) Build"]
+    direction TB
+    GitRepo -- On every push --> HugoBuild;
+    HugoBuild -- git add --> GitGhPages;
+    GitGhPages -- Deploy --> GitHubPages;
+end
+
+subgraph a["(1) Certification"]
+    direction TB
+    User -- Earn certification --> Organization;
+    Organization -- Report certifications --> Credly;
+end

@@ -23,34 +23,7 @@ Simply because I wanted to list and/or show off all my certificates on this blog
 
 So with this clear problem at hand, let me show you a short overview about all the loose parts at hand:
 
-{{< mermaid >}}
-flowchart TB
-    HugoBuild[[hugo build]]
-    Credly[(Credly)]
-    GitRepo[(Git Repo<br><i>Branch: main</i>)]
-    GitHubPages([GitHub Pages])
-    GitHubPagesA([GitHub Pages])
-    GitGhPages[(Git Repo<br><i>Branch: gh-pages</i>)]
-
-    subgraph d["(3) Customer"]
-        direction TB
-        Visitor -- Visits --> GitHubPagesA;
-    end
-
-    subgraph c["(2) Build"]
-        direction TB
-        GitRepo -- On every push --> HugoBuild;
-        HugoBuild -- git add --> GitGhPages;
-        GitGhPages -- Deploy --> GitHubPages;
-    end
-
-    subgraph a["(1) Certification"]
-        direction TB
-        User -- Earn certification --> Organization;
-        Organization -- Report certifications --> Credly;
-    end
-{{</ mermaid >}}
-
+![](./architecture_before.png)
 
 So looking at the diagram above we can conclude that we have three loosly coupled tasks / workflows / silos:
 
@@ -69,53 +42,7 @@ This is all fine and also allows us to pretty easily extend in all dimensions. M
 
 So the final desired state diagram would look something like this:
 
-{{< mermaid >}}
-flowchart TB
-    BadgeJson{{Metadata JSON}}
-    BadgeImages{{Badge images}}
-    ActionCredly[[New GitHub Action]]
-    CredlyA[(Credly)]
-    GitRepoA[(Git Repo<br><i>Branch: main</i>)]
-
-    subgraph b["(4) Credly Import"]
-        direction TB
-        CredlyA -. Fetch data .-> ActionCredly;
-        ActionCredly -- Generates --> BadgeJson;
-        ActionCredly -- Stores --> BadgeImages;
-        BadgeJson -- git add --> GitRepoA;
-        BadgeImages -- git add --> GitRepoA;
-    end
-    style b fill:#c0f1ff
-
-    %% ----------------------------------------------------
-    %% CODE FROM ABOVE
-    %% ----------------------------------------------------
-
-    HugoBuild[[hugo build]]
-    Credly[(Credly)]
-    GitRepo[(Git Repo<br><i>Branch: main</i>)]
-    GitHubPages([GitHub Pages])
-    GitHubPagesA([GitHub Pages])
-    GitGhPages[(Git Repo<br><i>Branch: gh-pages</i>)]
-
-    subgraph d["(3) Customer"]
-        direction TB
-        Visitor -- Visits --> GitHubPagesA;
-    end
-
-    subgraph c["(2) Build"]
-        direction TB
-        GitRepo -- On every push --> HugoBuild;
-        HugoBuild -- git add --> GitGhPages;
-        GitGhPages -- Deploy --> GitHubPages;
-    end
-
-    subgraph a["(1) Certification"]
-        direction TB
-        User -- Earn certification --> Organization;
-        Organization -- Report certifications --> Credly;
-    end
-{{</ mermaid >}}
+![](./architecture_after.png)
 
 As you can see above we changed **nothing** on the existing workflows / interactions. We simply added a whole new workflow that will import the [Credly][] files into our [own repository][1]. And, by design, any change to our repository will trigger a re-build and re-deploy of our website. :sign_of_the_horns:
 

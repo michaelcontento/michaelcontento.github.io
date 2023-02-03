@@ -1,0 +1,46 @@
+flowchart TB
+
+BadgeJson{{Metadata JSON}}
+BadgeImages{{Badge images}}
+ActionCredly[[New GitHub Action]]
+CredlyA[(Credly)]
+GitRepoA[(Git Repo<br><i>Branch: main</i>)]
+
+subgraph b["(4) Credly Import"]
+    direction TB
+    CredlyA -. Fetch data .-> ActionCredly;
+    ActionCredly -- Generates --> BadgeJson;
+    ActionCredly -- Stores --> BadgeImages;
+    BadgeJson -- git add --> GitRepoA;
+    BadgeImages -- git add --> GitRepoA;
+end
+style b fill:#c0f1ff
+
+%% ----------------------------------------------------
+%% CODE FROM ABOVE
+%% ----------------------------------------------------
+
+HugoBuild[[hugo build]]
+Credly[(Credly)]
+GitRepo[(Git Repo<br><i>Branch: main</i>)]
+GitHubPages([GitHub Pages])
+GitHubPagesA([GitHub Pages])
+GitGhPages[(Git Repo<br><i>Branch: gh-pages</i>)]
+
+subgraph d["(3) Customer"]
+    direction TB
+    Visitor -- Visits --> GitHubPagesA;
+end
+
+subgraph c["(2) Build"]
+    direction TB
+    GitRepo -- On every push --> HugoBuild;
+    HugoBuild -- git add --> GitGhPages;
+    GitGhPages -- Deploy --> GitHubPages;
+end
+
+subgraph a["(1) Certification"]
+    direction TB
+    User -- Earn certification --> Organization;
+    Organization -- Report certifications --> Credly;
+end
