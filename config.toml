@@ -29,8 +29,6 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Michael Contento"
-  description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,software development,c#,azure,.net"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -81,8 +79,6 @@ disqusShortname = ""
     resizeImages = true
 
   # Header configuration
-    # your subtitle if you want to use any
-    subtitle = ""
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "mail@michaelcontento.de"
@@ -162,8 +158,6 @@ disqusShortname = ""
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
     copyrightUrl = "https://github.com/michaelcontento/michaelcontento.github.io"
-    creditsText = "Impressum"
-    creditsUrl = "/page/imprint"
 
 [permalinks]
 article = "/article/:year/:month/:day/:title/"
@@ -173,12 +167,26 @@ article = "/article/:year/:month/:day/:title/"
 [Languages]
   [Languages.de]
     weight = 10
+
+    description = "Blog eines leidenschaftlichen Full-Stack Entwicklers über C#, Github und Azure"
+    keywords = "softwareentwicklung,github,microsoft,azure,cloud,blog"
+
     subtitle = "Softwareentwickler | Azure-Cloud-Ninja | Imker | Dad"
+
+    creditsText = "Impressum"
+    creditsUrl = "/page/imprint"
+
   [Languages.en]
     weight = 20
+
+    description = "Blog of a passionated full-stack developer around C#, Github and Azure"
+    keywords = "software development,github,microsoft,azure,cloud,blog"
+
     subtitle = "Softwaredeveloper | Azure-Cloud-Ninja | Beekeeper | Dad"
+
     creditsText = "Imprint"
     creditsUrl = "/en/page/imprint"
+
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
