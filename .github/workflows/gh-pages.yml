@@ -37,6 +37,11 @@ jobs:
                 --minify \
                 --baseURL "${{ steps.pages.outputs.base_url }}"
 
+      - name: Copy RSS Xml to keep old links alive
+        run: |
+            cp ./public/index.xml ./public/blog/ \
+            cp ./public/en/index.xml ./public/en/blog/
+
       - name: Upload artifact
         if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v1

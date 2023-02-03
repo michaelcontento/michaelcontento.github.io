@@ -3,6 +3,7 @@ date = "2022-10-20"
 title = "Chunked git-push into Azure DevOps"
 tags = ["Git", "Azure DevOps", "Azure"]
 categories = ["Development", "Cloud"]
+aliases = ["/en/blog/2022/10/20/chunked-git-push-into-azure-devops/"]
 +++
 
 The other day I encountered a fun little problem while trying to import a large git repository into [Azure DevOps]: <!--more-->

@@ -3,6 +3,7 @@ date = "2022-11-30"
 title = "Building a game in a day"
 tags = ["PlayDate", "Lua", "Gaming", "InnovationDay"]
 categories = ["Development", "Gaming"]
+aliases = ["/en/blog/2022/11/30/flying-poop-building-a-game-in-a-day/"]
 +++
 
 On 2022-11-25 the second Innovation Day @ [Xpirit] took place and it was the first, where I hosted a slot.

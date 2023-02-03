@@ -3,6 +3,7 @@ date = "2022-11-30"
 title = "Ein Spiel an einem Tag"
 tags = ["PlayDate", "Lua", "Gaming", "InnovationDay"]
 categories = ["Development", "Gaming"]
+aliases = ["/blog/2022/11/30/flying-poop-ein-spiel-an-einem-tag"]
 +++
 
 Am 25.11.2022 fand der zweite Innovation Day @ [Xpirit] statt und es war der erste, an dem ich einen eigenen Slot gestarte habe.

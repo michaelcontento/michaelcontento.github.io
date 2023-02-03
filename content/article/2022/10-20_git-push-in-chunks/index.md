@@ -3,6 +3,7 @@ date = "2022-10-20"
 title = "Gestückeltes git-push nach Azure DevOps"
 tags = ["Git", "Azure DevOps", "Azure"]
 categories = ["Development", "Cloud"]
+aliases = ["/blog/2022/10/20/gestückeltes-git-push-nach-azure-devops/"]
 +++
 
 Die Tage hatte ich ein lustiges kleines Problem bei dem Versuch ein großes Git Repository nach [Azure DevOps] zu importieren:  <!--more-->

@@ -2,7 +2,10 @@
 date = "2022-10-19"
 title = "Scraping Credly with GitHub Actions"
 tags = ["github action", "credly", "microsoft"]
-aliases = ["/en/blog/2022/10-github-actions-and-credly/"]
+aliases = [
+    "/en/blog/2022/10-github-actions-and-credly/",
+    "/en/blog/2022/10/19/scraping-credly-with-github-actions/"
+]
 categories = ["Development"]
 +++
 

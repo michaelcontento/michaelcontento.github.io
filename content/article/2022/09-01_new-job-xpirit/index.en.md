@@ -2,7 +2,10 @@
 date = "2022-09-01"
 title = "New Job? Xpirit!"
 tags = ["xpirit", "career update"]
-aliases = ["/en/blog/2022/09-xpirit-ist-es-geworden/"]
+aliases = [
+    "/en/blog/2022/09-xpirit-ist-es-geworden/",
+    "/en/blog/2022/09/01/new-job-xpirit/"
+]
 categories = ["Generell"]
 +++
 
