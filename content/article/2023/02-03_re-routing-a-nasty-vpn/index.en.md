@@ -80,7 +80,7 @@ Pretty easy and this left me with a diff that looks like this:
 Looks bad on the first glimpse, but basically it can be read as this:
 
 - The old `default` route via `192.168.32.1` gets inactivated
-- A new `default` route is created that routes everyting through `10.231.225.26`
+- A new `default` route is created that routes everything through `10.231.225.26`
 - Some IP blocks are actively routed through the old default route (`192.168.32.1`)
     - I've checked some of the IP ranges and they all belong to Microsoft
     - So I suspect this is some whitelisted traffic for MS Teams and other things
