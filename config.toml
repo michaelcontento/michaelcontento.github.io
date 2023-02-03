@@ -49,6 +49,8 @@ disqusShortname = ""
   # Enable / Disable comments on the articles via commento
   # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
+  umami_website_id = "6992b71c-5c7f-465f-af26-5b3ce06e274c"
+
   # Enable / Disable Giscus comments
   giscus             = true
   giscusJsUrl        = "https://giscus.app/client.js"
