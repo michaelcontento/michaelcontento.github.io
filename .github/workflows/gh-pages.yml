@@ -39,7 +39,7 @@ jobs:
 
       - name: Copy RSS Xml to keep old links alive
         run: |
-            cp ./public/index.xml ./public/blog/ \
+            cp ./public/index.xml ./public/blog/
             cp ./public/en/index.xml ./public/en/blog/
 
       - name: Upload artifact
