@@ -5,7 +5,7 @@ tags = ["VPN", "Networking", "Security"]
 categories = ["Networking", "Security"]
 +++
 
-Using a [VPN][] is usually a good thing, as it allows a secure connection between you and some secret / sensitive _things_. Those might be single devices (machines, servers etc.) or directly expose you to a whole (sub)network.
+Using a [VPN][] is usually a good thing, as it allows a secure connection between you and some secret / sensitive _things_. Those might be single devices (machines, servers etc.) or directly expose you to a whole (sub)network. <!--more-->
 
 So it's a quite natural solution to deploy a VPN setup when some of you workforce works from outside your sacred office (where you can physically control things). It might be that you employees are working some days from the home office or they might be sales persons who work, by design, "outside".
 
