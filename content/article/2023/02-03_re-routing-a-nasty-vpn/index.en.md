@@ -30,16 +30,16 @@ With this knowledge in mind we can go and try to understand how the VPN will cha
 
 ## Analysing the mess
 
-I came up with the following strategy to analyse "the mess" the VPN client was producing
+I came up with the following strategy to analyse "the mess" the VPN client was producing in my routing table:
 
 1. Take a snapshot of the routing table **before** we estable a VPN connection
 2. Take a snapshot of the routing table **after** we have a VPN connection established
 3. Compare the two states and see what / who we can do about it
 
-Luckily those three steps are pretty easy under macOS (the system I'm using) but same should be true for Linux and Windows.
+Luckily those three steps are pretty easy under macOS (the system I'm using), but same should be true for Linux and Windows.
 
-1. Before snapshot: `netstat -rn > before`
-2. After snapshot: `netstat -rn > after`
+1. Before snapshot `netstat -rn > before`
+2. After snapshot `netstat -rn > after`
 3. Comparing both `diff before after`
 
 Pretty easy and this left me with a diff that looks like this:
