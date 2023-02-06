@@ -44,7 +44,7 @@ Luckily those three steps are pretty easy under macOS (the system I'm using), bu
 
 Pretty easy and this left me with a diff that looks like this:
 
-```
+```diff
 5c5,6
 < default            192.168.32.1       UGScg             en7
 ---
