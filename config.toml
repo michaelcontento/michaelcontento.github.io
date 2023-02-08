@@ -144,11 +144,11 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://www.linkedin.com/in/michaelcontento", icon = "fab fa-linkedin-in", rel = "me" },
-      { link = "https://www.xing.com/profile/Michael_Contento", icon = "fab fa-xing" },
-      { link = "https://github.com/MichaelContento", icon = "fab fa-github" },
-      { link = "https://www.credly.com/users/michael-contento", icon = "fas fa-award" },
-      { link = "https://sessionize.com/michaelcontento", icon = "fas fa-bullhorn" },
+      { link = "https://www.linkedin.com/in/michaelcontento", icon = "fab fa-linkedin-in", rel = "me nofollow" },
+      { link = "https://www.xing.com/profile/Michael_Contento", icon = "fab fa-xing", rel = "me nofollow" },
+      { link = "https://github.com/MichaelContento", icon = "fab fa-github", rel = "me nofollow" },
+      { link = "https://www.credly.com/users/michael-contento", icon = "fas fa-award", rel = "me nofollow" },
+      { link = "https://sessionize.com/michaelcontento", icon = "fas fa-bullhorn", rel = "me nofollow" },
     ]
 
     # show an archive link in the footer
