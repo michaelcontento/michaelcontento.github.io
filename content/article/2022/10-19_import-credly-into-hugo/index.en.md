@@ -1,7 +1,7 @@
 +++
 date = "2022-10-19"
 title = "Scraping Credly with GitHub Actions"
-tags = ["github action", "credly", "microsoft"]
+tags = ["GitHub Actions", "Credly", "Microsoft"]
 aliases = [
     "/en/blog/2022/10-github-actions-and-credly/",
     "/en/blog/2022/10/19/scraping-credly-with-github-actions/"

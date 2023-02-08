@@ -1,12 +1,12 @@
 +++
 date = "2022-09-01"
 title = "New Job? Xpirit!"
-tags = ["xpirit", "career update"]
+tags = ["Cpirit", "Career Update"]
 aliases = [
     "/en/blog/2022/09-xpirit-ist-es-geworden/",
     "/en/blog/2022/09/01/new-job-xpirit/"
 ]
-categories = ["Generell"]
+categories = ["General"]
 +++
 
 After 20 months at [Sprengnetter] and a month vacation, I can now happily announce: **As of today, I'm part of [Xpirit] 😎** <!--more-->

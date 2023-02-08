@@ -1,7 +1,7 @@
 +++
 date = "2022-09-01"
 title = "Neuer Arbeitgeber? Xpirit!"
-tags = ["xpirit", "career update"]
+tags = ["Cpirit", "Career Update"]
 aliases = [
     "/blog/2022/09-xpirit-ist-es-geworden/",
     "/blog/2022/09/01/neuer-arbeitgeber-xpirit/"
