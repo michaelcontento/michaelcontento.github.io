@@ -2031,15 +2031,188 @@
       "translate_metadata": false,
       "updated_at": "2023-01-26T09:49:02.795-06:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-02-08T00:38:53.555-06:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "4ebea4d0-255a-4e64-87e0-59a7df158b4e",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "d0e0a77b-dd1d-41fc-834a-bf9f0e6e16ef",
+            "required_badge_template_id": null,
+            "title": "Configure and use secret scanning, dependency management, and code scanning",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "f0e43f86-bfad-452e-bb7c-14018c5b3d7b",
+            "required_badge_template_id": null,
+            "title": "Use code scanning with CodeQL",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "cce2ce17-6123-458b-9014-344edda288c8",
+            "required_badge_template_id": null,
+            "title": "Describe GitHub Advanced Security best practices, results, and how to take corrective measures",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "ad560aab-8054-43a4-b21e-e2182bada6c6",
+            "required_badge_template_id": null,
+            "title": "Configure GitHub Advanced Security tools in GitHub Enterprise",
+            "url": null
+          }
+        ],
+        "cost": "Paid",
+        "description": "Passing the GitHub Advanced Security certification exam validates subject matter expertise with applying software supply chain security patterns and practices with GitHub Advanced Security in the enterprise.",
+        "earn_this_badge_url": null,
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": null,
+        "id": "733017ad-2c75-442f-9f7b-4b5944a02a6d",
+        "image": {
+          "id": "9e11274d-1ac0-48c1-9d47-e72f16cd2e3d",
+          "url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"
+        },
+        "image_url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "63074953-290b-4dce-86ce-ea04b4187219",
+                "internationalize_badge_templates": false,
+                "name": "GitHub",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+                "vanity_url": "https://www.credly.com/org/github",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by GitHub"
+        },
+        "level": "Intermediate",
+        "name": "GitHub Advanced Security",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "4d27cd5d-28a6-4e2c-a88e-d944215543b0",
+            "name": "Code scanning",
+            "vanity_slug": "code-scanning"
+          },
+          {
+            "id": "72294138-bff0-4183-b613-54f4a4e350a2",
+            "name": "Dependency Management",
+            "vanity_slug": "dependency-management"
+          },
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          },
+          {
+            "id": "d907bd8c-1a49-4a7d-9d54-71eea7741dc0",
+            "name": "DevSecOps",
+            "vanity_slug": "devsecops"
+          },
+          {
+            "id": "8254dc54-cc40-477e-9662-9d1d318a933b",
+            "name": "GHAS",
+            "vanity_slug": "ghas"
+          },
+          {
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
+          },
+          {
+            "id": "041eebbd-c559-4a39-a1d7-8d1d4a39d0ee",
+            "name": "GitHub Actions",
+            "vanity_slug": "github-actions"
+          },
+          {
+            "id": "d377b507-b2d4-4e89-ac19-10e0ece791ba",
+            "name": "GitHub Advanced Security",
+            "vanity_slug": "github-advanced-security"
+          },
+          {
+            "id": "f5d92473-ea30-4c1d-9903-1295ead1b780",
+            "name": "Secret scanning",
+            "vanity_slug": "secret-scanning"
+          }
+        ],
+        "time_to_earn": "Days",
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/github/badge/github-advanced-security",
+        "vanity_slug": "github-advanced-security"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/231b27ce-8e8a-4e67-ad47-d6112d1a1bae/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2025-02-08T17:59:59.000-06:00",
+      "expires_at_date": "2025-02-08",
+      "id": "ea071846-9ea3-42f4-8754-a51997994532",
+      "image": {
+        "id": "9e11274d-1ac0-48c1-9d47-e72f16cd2e3d",
+        "url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"
+      },
+      "image_url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-02-07T23:40:30.000-06:00",
+      "issued_at_date": "2023-02-08",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "63074953-290b-4dce-86ce-ea04b4187219",
+              "internationalize_badge_templates": false,
+              "name": "GitHub",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+              "vanity_url": "https://www.credly.com/org/github",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by GitHub"
+      },
+      "last_updated_at": "2023-02-08T00:38:53.570-06:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-02-08T00:38:53.570-06:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 14,
+    "count": 15,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 14,
+    "total_count": 15,
     "total_pages": 1
   }
 }

@@ -178,5 +178,17 @@
     "MicrosoftIds": null,
     "Name": "GitHub Administration",
     "RemoteImageUrl": "https://images.credly.com/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/ea071846-9ea3-42f4-8754-a51997994532",
+    "Description": "Passing the GitHub Advanced Security certification exam validates subject matter expertise with applying software supply chain security patterns and practices with GitHub Advanced Security in the enterprise.",
+    "ExpiresAt": "2025-02-08T17:59:59.000-06:00",
+    "Id": "ea071846-9ea3-42f4-8754-a51997994532",
+    "IssuedAt": "2023-02-07T23:40:30.000-06:00",
+    "IssuerUrl": null,
+    "LocalImagePath": "images/CredlyBadges/ea071846-9ea3-42f4-8754-a51997994532.png",
+    "MicrosoftIds": null,
+    "Name": "GitHub Advanced Security",
+    "RemoteImageUrl": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"
   }
 ]
