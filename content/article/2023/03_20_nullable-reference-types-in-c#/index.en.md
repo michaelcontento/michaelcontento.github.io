@@ -5,7 +5,7 @@ tags = ["C#", ".Net"]
 categories = ["Development"]
 +++
 
-C# is a popular programming language that is widely used in the development of various applications. Microsoft has been working hard to make C# more robust and feature-rich, and one of the additions to the language (added in C# 8) are the nullable reference types. The C# nullable references feature allows developers to better control `null` values and handle null reference exceptions.
+C# is a popular programming language that is widely used in the development of various applications. Microsoft has been working hard to make C# more robust and feature-rich, and one of the additions to the language (added in C# 8) are the nullable reference types. The C# nullable references feature allows developers to better control `null` values and handle null reference exceptions. <!--more-->
 
 In this blog post, we'll explore C# nullable references in detail, including what they are, why they're important, and how to use them in your code.
 
