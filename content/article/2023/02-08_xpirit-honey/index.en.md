@@ -5,6 +5,9 @@ tags = ["Xpirit", "Honey", "Beekeeping"]
 categories = ["General"]
 +++
 
+HALLO VOM BRANCH!!!
+
+
 As a software developer, you might spend long hours typing away at a computer, but when you step away from the screen, what do you do to unwind? <!--more--> For many tech professionals, a hobby or passion outside of work is essential to maintaining a healthy work-life balance. For me, that hobby is something extraordinary: beekeeping 🐝.
 
 With currently 23 beehives and an average yield of around 35kg honey per beehive ... the honey production has skyrocketed, reaching beyond the capacity of just the family to consume. The surplus honey was shared with friends, which eventually led to an even bigger market, as I started selling the honey with custom labels to companies.
