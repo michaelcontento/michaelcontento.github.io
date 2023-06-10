@@ -214,5 +214,17 @@
     "MicrosoftIds": null,
     "Name": "Kusto Detective Agency – S2E1 Badge",
     "RemoteImageUrl": "https://images.credly.com/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/f829eec6-616b-4c40-87a2-d5954ac1ddfc",
+    "Description": "Many of Microsoft’s software and technologies are technically complex, and professionals may require training from knowledgeable trainers in aspects of their use. In order to make such training generally available, Microsoft has developed the Microsoft Certified Trainer (MCT) Program which grants membership to professional trainers and learning consultants who demonstrate and maintain technical and instructional expertise on Microsoft technologies and who have complied with all requirements.",
+    "ExpiresAt": null,
+    "Id": "f829eec6-616b-4c40-87a2-d5954ac1ddfc",
+    "IssuedAt": "2023-06-08T19:00:00.000-05:00",
+    "IssuerUrl": "https://www.microsoft.com/learning/mct-certification.aspx",
+    "LocalImagePath": "images/CredlyBadges/f829eec6-616b-4c40-87a2-d5954ac1ddfc.png",
+    "MicrosoftIds": [],
+    "Name": "Microsoft Certified Trainer 2023-2024",
+    "RemoteImageUrl": "https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"
   }
 ]

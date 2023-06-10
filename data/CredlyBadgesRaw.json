@@ -2444,15 +2444,171 @@
       "translate_metadata": false,
       "updated_at": "2023-05-24T14:12:58.728-05:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-06-09T20:22:25.862-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "31f34d77-2f57-4cb7-b1e8-2ae6cbc6e6ee",
+            "required_badge_template_id": null,
+            "title": "VALIDATE ACHIEVEMENT OF THE FOLLOWING PROGRAM REQUIREMENTS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "196eae4d-a5c9-4c15-926b-174715a02b87",
+            "required_badge_template_id": null,
+            "title": "- Maintain active MCT status by enrolling or renewing in the MCT Program on an annual basis",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "34200649-97fa-4abc-bc79-a8bd9008a781",
+            "required_badge_template_id": null,
+            "title": "- Possess a current qualifying Microsoft Certification",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "d9779fd5-8cb3-4d5e-80b3-c6ecc84edb74",
+            "required_badge_template_id": null,
+            "title": "- Demonstrate instructional skills",
+            "url": null
+          }
+        ],
+        "cost": null,
+        "description": "Many of Microsoft’s software and technologies are technically complex, and professionals may require training from knowledgeable trainers in aspects of their use. In order to make such training generally available, Microsoft has developed the Microsoft Certified Trainer (MCT) Program which grants membership to professional trainers and learning consultants who demonstrate and maintain technical and instructional expertise on Microsoft technologies and who have complied with all requirements.",
+        "earn_this_badge_url": null,
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": "https://www.microsoft.com/learning/mct-certification.aspx",
+        "id": "cae80aa4-06bb-497f-bdee-d374d376c96d",
+        "image": {
+          "id": "fd6bb2af-2f05-4d9b-a23e-39f8e309a82d",
+          "url": "https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"
+        },
+        "image_url": "https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "1392f199-abe0-4698-92b5-834610af6baf",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+                "vanity_url": "https://www.credly.com/org/microsoft-certification",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft"
+        },
+        "level": null,
+        "name": "Microsoft Certified Trainer 2023-2024",
+        "show_badge_lmi": true,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "c10dbe6b-d77d-46f8-a6e4-d313e75a048a",
+            "name": "Information Technology Instructor",
+            "vanity_slug": "information-technology-instructor"
+          },
+          {
+            "id": "0368bb37-8c86-4a1a-a43c-3083215ad3aa",
+            "name": "IT Training",
+            "vanity_slug": "it-training"
+          },
+          {
+            "id": "3a5573a3-8363-43aa-9af6-5201dc8a7ab8",
+            "name": "MCT",
+            "vanity_slug": "mct"
+          },
+          {
+            "id": "5798d1e5-a093-48cf-8988-fbe2b3523c34",
+            "name": "Microsoft Certified Trainer",
+            "vanity_slug": "microsoft-certified-trainer"
+          },
+          {
+            "id": "f7b258b2-34d9-4ec1-a9fa-18622f9cce75",
+            "name": "Microsoft Instructor",
+            "vanity_slug": "microsoft-instructor"
+          },
+          {
+            "id": "b9063169-d410-4ad1-bf2e-361c4a103583",
+            "name": "Microsoft Learning",
+            "vanity_slug": "microsoft-learning"
+          },
+          {
+            "id": "dae7283d-9757-409f-bcf7-b9bf61d44c34",
+            "name": "Microsoft Technologies",
+            "vanity_slug": "microsoft-technologies"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": null,
+        "url": "https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-trainer-2023-2024",
+        "vanity_slug": "microsoft-certified-trainer-2023-2024"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "f829eec6-616b-4c40-87a2-d5954ac1ddfc",
+      "image": {
+        "id": "fd6bb2af-2f05-4d9b-a23e-39f8e309a82d",
+        "url": "https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"
+      },
+      "image_url": "https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-06-08T19:00:00.000-05:00",
+      "issued_at_date": "2023-06-09",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "1392f199-abe0-4698-92b5-834610af6baf",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/1392f199-abe0-4698-92b5-834610af6baf",
+              "vanity_url": "https://www.credly.com/org/microsoft-certification",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft"
+      },
+      "last_updated_at": "2023-06-09T20:22:25.877-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-06-09T20:22:25.877-05:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 17,
+    "count": 18,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 17,
+    "total_count": 18,
     "total_pages": 1
   }
 }
