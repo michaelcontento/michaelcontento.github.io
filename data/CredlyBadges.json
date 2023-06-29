@@ -226,5 +226,29 @@
     "MicrosoftIds": [],
     "Name": "Microsoft Certified Trainer 2023-2024",
     "RemoteImageUrl": "https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/1efd017c-20d1-46c9-bb6a-e8606885f8a1",
+    "Description": "Kusto Detective Agency: Case S2E2 solved!",
+    "ExpiresAt": null,
+    "Id": "1efd017c-20d1-46c9-bb6a-e8606885f8a1",
+    "IssuedAt": "2023-06-28T15:50:08.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/1efd017c-20d1-46c9-bb6a-e8606885f8a1.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Agency – S2E2 Badge",
+    "RemoteImageUrl": "https://images.credly.com/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/d4dd4b0c-bd53-4f66-8f5d-5c6a8d0ef5a4",
+    "Description": "Kusto Detective Agency: Case S2E3 solved!",
+    "ExpiresAt": null,
+    "Id": "d4dd4b0c-bd53-4f66-8f5d-5c6a8d0ef5a4",
+    "IssuedAt": "2023-06-28T16:25:24.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/d4dd4b0c-bd53-4f66-8f5d-5c6a8d0ef5a4.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Agency – S2E3 Badge",
+    "RemoteImageUrl": "https://images.credly.com/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png"
   }
 ]
