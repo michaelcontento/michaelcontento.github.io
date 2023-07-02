@@ -200,19 +200,19 @@
     "IssuerUrl": "https://detective.kusto.io",
     "LocalImagePath": "images/CredlyBadges/0024ed65-79f5-4a99-bc3b-2de5fa2ec8f8.png",
     "MicrosoftIds": null,
-    "Name": "Kusto Detective Agency - Onboarding",
+    "Name": "New Kusto Detective!",
     "RemoteImageUrl": "https://images.credly.com/images/1e07abc3-dc08-4320-af38-43824afc659d/image.png"
   },
   {
     "CredlyUrl": "https://www.credly.com/badges/69cea37a-74be-4451-9210-c006c42f1d62",
-    "Description": "Kusto Detective Agency: Case S2E1 solved!",
+    "Description": "Kusto Detective Agency: Case \"To bill or not to bill?\" solved!",
     "ExpiresAt": null,
     "Id": "69cea37a-74be-4451-9210-c006c42f1d62",
     "IssuedAt": "2023-05-24T14:12:58.000-05:00",
     "IssuerUrl": "https://detective.kusto.io",
     "LocalImagePath": "images/CredlyBadges/69cea37a-74be-4451-9210-c006c42f1d62.png",
     "MicrosoftIds": null,
-    "Name": "Kusto Detective Agency – S2E1 Badge",
+    "Name": "New Rank: Kusto Detective I",
     "RemoteImageUrl": "https://images.credly.com/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png"
   },
   {
@@ -229,26 +229,26 @@
   },
   {
     "CredlyUrl": "https://www.credly.com/badges/1efd017c-20d1-46c9-bb6a-e8606885f8a1",
-    "Description": "Kusto Detective Agency: Case S2E2 solved!",
+    "Description": "Kusto Detective Agency: Case \"Catch the Phishermen!\" solved!",
     "ExpiresAt": null,
     "Id": "1efd017c-20d1-46c9-bb6a-e8606885f8a1",
     "IssuedAt": "2023-06-28T15:50:08.000-05:00",
     "IssuerUrl": "https://detective.kusto.io",
     "LocalImagePath": "images/CredlyBadges/1efd017c-20d1-46c9-bb6a-e8606885f8a1.png",
     "MicrosoftIds": null,
-    "Name": "Kusto Detective Agency – S2E2 Badge",
+    "Name": "New Rank: Kusto Detective II",
     "RemoteImageUrl": "https://images.credly.com/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png"
   },
   {
     "CredlyUrl": "https://www.credly.com/badges/d4dd4b0c-bd53-4f66-8f5d-5c6a8d0ef5a4",
-    "Description": "Kusto Detective Agency: Case S2E3 solved!",
+    "Description": "Kusto Detective Agency: Case \"Return stolen cars!\" solved!",
     "ExpiresAt": null,
     "Id": "d4dd4b0c-bd53-4f66-8f5d-5c6a8d0ef5a4",
     "IssuedAt": "2023-06-28T16:25:24.000-05:00",
     "IssuerUrl": "https://detective.kusto.io",
     "LocalImagePath": "images/CredlyBadges/d4dd4b0c-bd53-4f66-8f5d-5c6a8d0ef5a4.png",
     "MicrosoftIds": null,
-    "Name": "Kusto Detective Agency – S2E3 Badge",
+    "Name": "New Rank: Kusto Detective III",
     "RemoteImageUrl": "https://images.credly.com/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png"
   }
 ]

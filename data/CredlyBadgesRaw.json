@@ -2251,7 +2251,7 @@
           "summary": "issued by Microsoft Azure Data Explorer"
         },
         "level": "Foundational",
-        "name": "Kusto Detective Agency - Onboarding",
+        "name": "New Kusto Detective!",
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2279,8 +2279,8 @@
         "time_to_earn": null,
         "translatable": false,
         "type_category": "Experience",
-        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-onboarding.1",
-        "vanity_slug": "kusto-detective-agency-onboarding.1"
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-kusto-detective",
+        "vanity_slug": "new-kusto-detective"
       },
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
@@ -2339,7 +2339,7 @@
           }
         ],
         "cost": null,
-        "description": "Kusto Detective Agency: Case S2E1 solved!",
+        "description": "Kusto Detective Agency: Case \"To bill or not to bill?\" solved!",
         "earn_this_badge_url": "https://detective.kusto.io",
         "enable_detail_attribute_visibility": true,
         "enable_earn_this_badge": true,
@@ -2371,7 +2371,7 @@
           "summary": "issued by Microsoft Azure Data Explorer"
         },
         "level": null,
-        "name": "Kusto Detective Agency – S2E1 Badge",
+        "name": "New Rank: Kusto Detective I",
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2399,8 +2399,8 @@
         "time_to_earn": null,
         "translatable": false,
         "type_category": "Experience",
-        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-s2e1-badge",
-        "vanity_slug": "kusto-detective-agency-s2e1-badge"
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-kusto-detective-i",
+        "vanity_slug": "new-rank-kusto-detective-i"
       },
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
@@ -2615,7 +2615,7 @@
           }
         ],
         "cost": null,
-        "description": "Kusto Detective Agency: Case S2E2 solved!",
+        "description": "Kusto Detective Agency: Case \"Catch the Phishermen!\" solved!",
         "earn_this_badge_url": "https://detective.kusto.io",
         "enable_detail_attribute_visibility": true,
         "enable_earn_this_badge": true,
@@ -2647,7 +2647,7 @@
           "summary": "issued by Microsoft Azure Data Explorer"
         },
         "level": null,
-        "name": "Kusto Detective Agency – S2E2 Badge",
+        "name": "New Rank: Kusto Detective II",
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2675,8 +2675,8 @@
         "time_to_earn": null,
         "translatable": false,
         "type_category": "Experience",
-        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-s2e2-badge",
-        "vanity_slug": "kusto-detective-agency-s2e2-badge"
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-kusto-detective-ii",
+        "vanity_slug": "new-rank-kusto-detective-ii"
       },
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
@@ -2735,7 +2735,7 @@
           }
         ],
         "cost": null,
-        "description": "Kusto Detective Agency: Case S2E3 solved!",
+        "description": "Kusto Detective Agency: Case \"Return stolen cars!\" solved!",
         "earn_this_badge_url": "https://detective.kusto.io",
         "enable_detail_attribute_visibility": true,
         "enable_earn_this_badge": true,
@@ -2767,7 +2767,7 @@
           "summary": "issued by Microsoft Azure Data Explorer"
         },
         "level": null,
-        "name": "Kusto Detective Agency – S2E3 Badge",
+        "name": "New Rank: Kusto Detective III",
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2795,8 +2795,8 @@
         "time_to_earn": null,
         "translatable": false,
         "type_category": "Experience",
-        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-agency-s2e3-badge",
-        "vanity_slug": "kusto-detective-agency-s2e3-badge"
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-kusto-detective-iii",
+        "vanity_slug": "new-rank-kusto-detective-iii"
       },
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
