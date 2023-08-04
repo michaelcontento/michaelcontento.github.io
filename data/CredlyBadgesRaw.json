@@ -47,6 +47,8 @@
         },
         "level": null,
         "name": "Microsoft Certified: Azure Cosmos DB Developer Specialty",
+        "owner_vanity_slug": "microsoft-certification",
+        "public": true,
         "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
@@ -203,6 +205,8 @@
         },
         "level": null,
         "name": "Microsoft Certified: Azure Fundamentals",
+        "owner_vanity_slug": "microsoft-certification",
+        "public": true,
         "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
@@ -380,6 +384,8 @@
         },
         "level": null,
         "name": "Microsoft Certified: Azure Administrator Associate",
+        "owner_vanity_slug": "microsoft-certification",
+        "public": true,
         "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
@@ -545,6 +551,8 @@
         },
         "level": null,
         "name": "Kusto Detective Agency - Onboarding",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -665,6 +673,8 @@
         },
         "level": null,
         "name": "Kusto Detective Agency - Case #1 Badge",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -785,6 +795,8 @@
         },
         "level": null,
         "name": "Kusto Detective Agency - Case #2 Badge",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -905,6 +917,8 @@
         },
         "level": null,
         "name": "Kusto Detective Agency - Case #3 Badge",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -1060,6 +1074,8 @@
         },
         "level": null,
         "name": "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+        "owner_vanity_slug": "microsoft-certification",
+        "public": true,
         "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
@@ -1243,6 +1259,8 @@
         },
         "level": null,
         "name": "Microsoft Certified: DevOps Engineer Expert",
+        "owner_vanity_slug": "microsoft-certification",
+        "public": true,
         "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
@@ -1398,6 +1416,8 @@
         },
         "level": null,
         "name": "Kusto Detective Agency - Case #4 Badge",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -1546,6 +1566,8 @@
         },
         "level": "Intermediate",
         "name": "GitHub Actions",
+        "owner_vanity_slug": "github",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -1681,6 +1703,8 @@
         },
         "level": null,
         "name": "Kusto Detective Agency - Case #5 Badge",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -1801,6 +1825,8 @@
         },
         "level": "Advanced",
         "name": "Kusto Detective Agency - Complete",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -1949,6 +1975,8 @@
         },
         "level": null,
         "name": "GitHub Administration",
+        "owner_vanity_slug": "github",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -2107,6 +2135,8 @@
         },
         "level": "Intermediate",
         "name": "GitHub Advanced Security",
+        "owner_vanity_slug": "github",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -2252,6 +2282,8 @@
         },
         "level": "Foundational",
         "name": "New Kusto Detective!",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2372,6 +2404,8 @@
         },
         "level": null,
         "name": "New Rank: Kusto Detective I",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2513,6 +2547,8 @@
         },
         "level": null,
         "name": "Microsoft Certified Trainer 2023-2024",
+        "owner_vanity_slug": "microsoft-certification",
+        "public": true,
         "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
@@ -2648,6 +2684,8 @@
         },
         "level": null,
         "name": "New Rank: Kusto Detective II",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
@@ -2768,6 +2806,8 @@
         },
         "level": null,
         "name": "New Rank: Kusto Detective III",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": false,
         "skills": [
