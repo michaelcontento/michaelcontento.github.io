@@ -1551,10 +1551,10 @@
         "global_activity_url": null,
         "id": "999453c9-0d2b-4a4e-b82c-ed1c89bc56ee",
         "image": {
-          "id": "50ac5cb1-f13a-4859-a480-a567f3bad4ca",
-          "url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+          "id": "556afa03-8682-4e3a-9975-b588b7aa5ba0",
+          "url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
         },
-        "image_url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png",
+        "image_url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png",
         "issuer": {
           "entities": [
             {
@@ -1627,18 +1627,18 @@
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
       "evidence": [],
-      "expires_at": "2024-11-04T17:59:59.000-06:00",
-      "expires_at_date": "2024-11-04",
-      "id": "dc027e9c-831d-4dd3-8c66-7ddf125e09e7",
+      "expires_at": "2025-11-04T18:00:00.000-06:00",
+      "expires_at_date": "2025-11-05",
+      "id": "515f054d-e8a6-4e9b-8ba5-5a92adeee122",
       "image": {
-        "id": "50ac5cb1-f13a-4859-a480-a567f3bad4ca",
-        "url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png"
+        "id": "556afa03-8682-4e3a-9975-b588b7aa5ba0",
+        "url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
       },
-      "image_url": "https://images.credly.com/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png",
+      "image_url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png",
       "is_private_badge": false,
       "issued_at": "2022-11-03T23:41:48.000-05:00",
       "issued_at_date": "2022-11-04",
-      "issued_to": "Michael Contento",
+      "issued_to": "Michael null Contento",
       "issuer": {
         "entities": [
           {
@@ -1658,13 +1658,13 @@
         ],
         "summary": "issued by GitHub"
       },
-      "last_updated_at": "2022-11-04T10:12:09.127-05:00",
+      "last_updated_at": "2023-08-14T15:03:49.561-05:00",
       "locale": "en",
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
-      "updated_at": "2022-11-04T10:12:09.128-05:00",
+      "updated_at": "2023-08-14T15:03:49.561-05:00",
       "user_is_earner": false
     },
     {
@@ -1963,10 +1963,10 @@
         "global_activity_url": null,
         "id": "9d271ae3-64e2-4f70-bbe3-2e5511e676d3",
         "image": {
-          "id": "2787e1d9-afd8-4226-8558-52a4d0fff528",
-          "url": "https://images.credly.com/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
+          "id": "a5e9bdf5-be98-4896-afd2-eff09e511667",
+          "url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
         },
-        "image_url": "https://images.credly.com/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png",
+        "image_url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png",
         "issuer": {
           "entities": [
             {
@@ -2034,18 +2034,18 @@
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
       "evidence": [],
-      "expires_at": "2025-01-26T17:59:59.000-06:00",
-      "expires_at_date": "2025-01-26",
-      "id": "09ac07fa-ae75-4d26-94b1-86560210d872",
+      "expires_at": "2026-01-26T18:00:00.000-06:00",
+      "expires_at_date": "2026-01-27",
+      "id": "fc79487a-4524-47a3-9142-ed3e82553c96",
       "image": {
-        "id": "2787e1d9-afd8-4226-8558-52a4d0fff528",
-        "url": "https://images.credly.com/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png"
+        "id": "a5e9bdf5-be98-4896-afd2-eff09e511667",
+        "url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
       },
-      "image_url": "https://images.credly.com/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png",
+      "image_url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png",
       "is_private_badge": false,
       "issued_at": "2023-01-25T23:33:45.000-06:00",
       "issued_at_date": "2023-01-26",
-      "issued_to": "Michael Contento",
+      "issued_to": "Michael null Contento",
       "issuer": {
         "entities": [
           {
@@ -2065,13 +2065,13 @@
         ],
         "summary": "issued by GitHub"
       },
-      "last_updated_at": "2023-01-26T09:49:02.795-06:00",
+      "last_updated_at": "2023-08-14T15:05:02.088-05:00",
       "locale": "en",
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
-      "updated_at": "2023-01-26T09:49:02.795-06:00",
+      "updated_at": "2023-08-14T15:05:02.088-05:00",
       "user_is_earner": false
     },
     {
@@ -2124,10 +2124,10 @@
         "global_activity_url": null,
         "id": "733017ad-2c75-442f-9f7b-4b5944a02a6d",
         "image": {
-          "id": "9e11274d-1ac0-48c1-9d47-e72f16cd2e3d",
-          "url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"
+          "id": "ab23e6b1-d5ba-48ee-a3ba-71849e0ac637",
+          "url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
         },
-        "image_url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png",
+        "image_url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png",
         "issuer": {
           "entities": [
             {
@@ -2210,18 +2210,18 @@
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
       "evidence": [],
-      "expires_at": "2025-02-08T17:59:59.000-06:00",
-      "expires_at_date": "2025-02-08",
-      "id": "ea071846-9ea3-42f4-8754-a51997994532",
+      "expires_at": "2026-02-08T18:00:00.000-06:00",
+      "expires_at_date": "2026-02-09",
+      "id": "c96590dc-397d-4709-a70f-e7bf0aa5a729",
       "image": {
-        "id": "9e11274d-1ac0-48c1-9d47-e72f16cd2e3d",
-        "url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png"
+        "id": "ab23e6b1-d5ba-48ee-a3ba-71849e0ac637",
+        "url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
       },
-      "image_url": "https://images.credly.com/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png",
+      "image_url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png",
       "is_private_badge": false,
       "issued_at": "2023-02-07T23:40:30.000-06:00",
       "issued_at_date": "2023-02-08",
-      "issued_to": "Michael Contento",
+      "issued_to": "Michael null Contento",
       "issuer": {
         "entities": [
           {
@@ -2241,13 +2241,13 @@
         ],
         "summary": "issued by GitHub"
       },
-      "last_updated_at": "2023-02-08T00:38:53.570-06:00",
+      "last_updated_at": "2023-08-14T15:05:16.616-05:00",
       "locale": "en",
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
-      "updated_at": "2023-02-08T00:38:53.570-06:00",
+      "updated_at": "2023-08-14T15:05:16.616-05:00",
       "user_is_earner": false
     },
     {
