@@ -1629,7 +1629,7 @@
       "evidence": [],
       "expires_at": "2025-11-04T18:00:00.000-06:00",
       "expires_at_date": "2025-11-05",
-      "id": "515f054d-e8a6-4e9b-8ba5-5a92adeee122",
+      "id": "147bfcc6-6a8a-475e-9212-399067767a8f",
       "image": {
         "id": "556afa03-8682-4e3a-9975-b588b7aa5ba0",
         "url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
@@ -1658,13 +1658,13 @@
         ],
         "summary": "issued by GitHub"
       },
-      "last_updated_at": "2023-08-14T15:03:49.561-05:00",
+      "last_updated_at": "2023-08-15T18:13:55.650-05:00",
       "locale": "en",
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
-      "updated_at": "2023-08-14T15:03:49.561-05:00",
+      "updated_at": "2023-08-15T18:13:55.650-05:00",
       "user_is_earner": false
     },
     {
@@ -2036,7 +2036,7 @@
       "evidence": [],
       "expires_at": "2026-01-26T18:00:00.000-06:00",
       "expires_at_date": "2026-01-27",
-      "id": "fc79487a-4524-47a3-9142-ed3e82553c96",
+      "id": "b3c1df1c-d078-4006-aa2d-6acee79c9d87",
       "image": {
         "id": "a5e9bdf5-be98-4896-afd2-eff09e511667",
         "url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
@@ -2065,13 +2065,13 @@
         ],
         "summary": "issued by GitHub"
       },
-      "last_updated_at": "2023-08-14T15:05:02.088-05:00",
+      "last_updated_at": "2023-08-15T18:16:00.461-05:00",
       "locale": "en",
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
-      "updated_at": "2023-08-14T15:05:02.088-05:00",
+      "updated_at": "2023-08-15T18:16:00.461-05:00",
       "user_is_earner": false
     },
     {
@@ -2212,7 +2212,7 @@
       "evidence": [],
       "expires_at": "2026-02-08T18:00:00.000-06:00",
       "expires_at_date": "2026-02-09",
-      "id": "c96590dc-397d-4709-a70f-e7bf0aa5a729",
+      "id": "7787ded9-1873-41e1-8c9b-d6c32394f508",
       "image": {
         "id": "ab23e6b1-d5ba-48ee-a3ba-71849e0ac637",
         "url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
@@ -2241,13 +2241,13 @@
         ],
         "summary": "issued by GitHub"
       },
-      "last_updated_at": "2023-08-14T15:05:16.616-05:00",
+      "last_updated_at": "2023-08-15T18:16:13.564-05:00",
       "locale": "en",
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
-      "updated_at": "2023-08-14T15:05:16.616-05:00",
+      "updated_at": "2023-08-15T18:16:13.564-05:00",
       "user_is_earner": false
     },
     {
