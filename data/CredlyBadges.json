@@ -132,13 +132,13 @@
     "RemoteImageUrl": "https://images.credly.com/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png"
   },
   {
-    "CredlyUrl": "https://www.credly.com/badges/147bfcc6-6a8a-475e-9212-399067767a8f",
+    "CredlyUrl": "https://www.credly.com/badges/2e850a43-aafa-4c6e-9781-73abcb77e9f4",
     "Description": "Passing the GitHub Actions certification exam validates subject matter expertise with applying continuous integration/continuous delivery (CI/CD) patterns and practices using GitHub Actions in the enterprise.",
     "ExpiresAt": "2025-11-04T18:00:00.000-06:00",
-    "Id": "147bfcc6-6a8a-475e-9212-399067767a8f",
+    "Id": "2e850a43-aafa-4c6e-9781-73abcb77e9f4",
     "IssuedAt": "2022-11-03T23:41:48.000-05:00",
     "IssuerUrl": null,
-    "LocalImagePath": "images/CredlyBadges/147bfcc6-6a8a-475e-9212-399067767a8f.png",
+    "LocalImagePath": "images/CredlyBadges/2e850a43-aafa-4c6e-9781-73abcb77e9f4.png",
     "MicrosoftIds": null,
     "Name": "GitHub Actions",
     "RemoteImageUrl": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
@@ -168,25 +168,25 @@
     "RemoteImageUrl": "https://images.credly.com/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png"
   },
   {
-    "CredlyUrl": "https://www.credly.com/badges/b3c1df1c-d078-4006-aa2d-6acee79c9d87",
+    "CredlyUrl": "https://www.credly.com/badges/4447fc53-cf08-4b5f-8612-eab507794840",
     "Description": "Passing the GitHub Administration certification exam validates subject matter expertise with the deployment and administration of GitHub Enterprise as well as how to provide support for GitHub users in the enterprise.",
     "ExpiresAt": "2026-01-26T18:00:00.000-06:00",
-    "Id": "b3c1df1c-d078-4006-aa2d-6acee79c9d87",
+    "Id": "4447fc53-cf08-4b5f-8612-eab507794840",
     "IssuedAt": "2023-01-25T23:33:45.000-06:00",
     "IssuerUrl": null,
-    "LocalImagePath": "images/CredlyBadges/b3c1df1c-d078-4006-aa2d-6acee79c9d87.png",
+    "LocalImagePath": "images/CredlyBadges/4447fc53-cf08-4b5f-8612-eab507794840.png",
     "MicrosoftIds": null,
     "Name": "GitHub Administration",
     "RemoteImageUrl": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
   },
   {
-    "CredlyUrl": "https://www.credly.com/badges/7787ded9-1873-41e1-8c9b-d6c32394f508",
+    "CredlyUrl": "https://www.credly.com/badges/7a64b80c-707d-479a-8a08-c7ee3a87dc3a",
     "Description": "Passing the GitHub Advanced Security certification exam validates subject matter expertise with applying software supply chain security patterns and practices with GitHub Advanced Security in the enterprise.",
     "ExpiresAt": "2026-02-08T18:00:00.000-06:00",
-    "Id": "7787ded9-1873-41e1-8c9b-d6c32394f508",
+    "Id": "7a64b80c-707d-479a-8a08-c7ee3a87dc3a",
     "IssuedAt": "2023-02-07T23:40:30.000-06:00",
     "IssuerUrl": null,
-    "LocalImagePath": "images/CredlyBadges/7787ded9-1873-41e1-8c9b-d6c32394f508.png",
+    "LocalImagePath": "images/CredlyBadges/7a64b80c-707d-479a-8a08-c7ee3a87dc3a.png",
     "MicrosoftIds": null,
     "Name": "GitHub Advanced Security",
     "RemoteImageUrl": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
