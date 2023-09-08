@@ -13,6 +13,7 @@
             "url": "https://docs.microsoft.com/learn/certifications/exams/dp-420"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Earning Azure Cosmos DB Developer Specialty certification validates subject matter expertise in designing, implementing, and monitoring cloud-native applications that store and manage data. Candidates design and implement data models, data distribution, loading data into an Azure Cosmos DB database, and optimizing and maintaining the solution. They have solid knowledge and experience developing apps for Azure and working with Azure Cosmos DB database technologies.",
         "earn_this_badge_url": null,
@@ -156,6 +157,7 @@
             "url": "https://docs.microsoft.com/learn/certifications/exams/az-900"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
         "earn_this_badge_url": null,
@@ -352,6 +354,7 @@
             "url": "https://docs.microsoft.com/learn/certifications/exams/az-102"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.",
         "earn_this_badge_url": null,
@@ -520,6 +523,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Completion of the successful onboarding as a new Kusto detective.",
         "earn_this_badge_url": null,
@@ -643,6 +647,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Successful completion of the first Kusto Detective Agency riddle.",
         "earn_this_badge_url": null,
@@ -766,6 +771,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Successful completion of the second Kusto Detective Agency riddle.",
         "earn_this_badge_url": null,
@@ -889,6 +895,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Successful completion of the third Kusto Detective Agency riddle.",
         "earn_this_badge_url": null,
@@ -1047,6 +1054,7 @@
             "url": null
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Passing exam AZ-400: Designing and Implementing Microsoft DevOps Solutions validates the skills and knowledge to combine people, processes, and technologies to deliver valuable products and services that meet end-user needs and business objectives. Candidates optimize practices, improve communications, and create automation to streamline delivery. They design and implement strategies for application code and infrastructure for continuous integration, testing, delivery, monitoring and feedback.",
         "earn_this_badge_url": null,
@@ -1233,6 +1241,7 @@
             "url": "https://docs.microsoft.com/learn/certifications/exams/az-400"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Earning the DevOps Engineer Expert certification demonstrates the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.",
         "earn_this_badge_url": null,
@@ -1391,6 +1400,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Successful completion of the fourth Kusto Detective Agency riddle.",
         "earn_this_badge_url": null,
@@ -1542,6 +1552,7 @@
             "url": null
           }
         ],
+        "badge_template_earnable": false,
         "cost": "Paid",
         "description": "Passing the GitHub Actions certification exam validates subject matter expertise with applying continuous integration/continuous delivery (CI/CD) patterns and practices using GitHub Actions in the enterprise.",
         "earn_this_badge_url": null,
@@ -1551,10 +1562,10 @@
         "global_activity_url": null,
         "id": "999453c9-0d2b-4a4e-b82c-ed1c89bc56ee",
         "image": {
-          "id": "556afa03-8682-4e3a-9975-b588b7aa5ba0",
-          "url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
+          "id": "89efc3e7-842b-4790-b09b-9ea5efc71ec3",
+          "url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"
         },
-        "image_url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png",
+        "image_url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png",
         "issuer": {
           "entities": [
             {
@@ -1631,10 +1642,10 @@
       "expires_at_date": "2025-11-05",
       "id": "2e850a43-aafa-4c6e-9781-73abcb77e9f4",
       "image": {
-        "id": "556afa03-8682-4e3a-9975-b588b7aa5ba0",
-        "url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png"
+        "id": "89efc3e7-842b-4790-b09b-9ea5efc71ec3",
+        "url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"
       },
-      "image_url": "https://images.credly.com/images/556afa03-8682-4e3a-9975-b588b7aa5ba0/image.png",
+      "image_url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png",
       "is_private_badge": false,
       "issued_at": "2022-11-03T23:41:48.000-05:00",
       "issued_at_date": "2022-11-04",
@@ -1680,6 +1691,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Successful completion of the fifth Kusto Detective Agency riddle.",
         "earn_this_badge_url": null,
@@ -1803,6 +1815,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "The ultimate badge for the ultimate Kusto detective!",
         "earn_this_badge_url": null,
@@ -1954,6 +1967,7 @@
             "url": null
           }
         ],
+        "badge_template_earnable": false,
         "cost": "Paid",
         "description": "Passing the GitHub Administration certification exam validates subject matter expertise with the deployment and administration of GitHub Enterprise as well as how to provide support for GitHub users in the enterprise.",
         "earn_this_badge_url": null,
@@ -1963,10 +1977,10 @@
         "global_activity_url": null,
         "id": "9d271ae3-64e2-4f70-bbe3-2e5511e676d3",
         "image": {
-          "id": "a5e9bdf5-be98-4896-afd2-eff09e511667",
-          "url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
+          "id": "34880f37-8ec8-4542-a78a-73ba6647208e",
+          "url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"
         },
-        "image_url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png",
+        "image_url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png",
         "issuer": {
           "entities": [
             {
@@ -2038,10 +2052,10 @@
       "expires_at_date": "2026-01-27",
       "id": "4447fc53-cf08-4b5f-8612-eab507794840",
       "image": {
-        "id": "a5e9bdf5-be98-4896-afd2-eff09e511667",
-        "url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png"
+        "id": "34880f37-8ec8-4542-a78a-73ba6647208e",
+        "url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"
       },
-      "image_url": "https://images.credly.com/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png",
+      "image_url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png",
       "is_private_badge": false,
       "issued_at": "2023-01-25T23:33:45.000-06:00",
       "issued_at_date": "2023-01-26",
@@ -2115,6 +2129,7 @@
             "url": null
           }
         ],
+        "badge_template_earnable": false,
         "cost": "Paid",
         "description": "Passing the GitHub Advanced Security certification exam validates subject matter expertise with applying software supply chain security patterns and practices with GitHub Advanced Security in the enterprise.",
         "earn_this_badge_url": null,
@@ -2124,10 +2139,10 @@
         "global_activity_url": null,
         "id": "733017ad-2c75-442f-9f7b-4b5944a02a6d",
         "image": {
-          "id": "ab23e6b1-d5ba-48ee-a3ba-71849e0ac637",
-          "url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
+          "id": "c9ed294b-f8ac-48fa-a8c3-96dab1f110f2",
+          "url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png"
         },
-        "image_url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png",
+        "image_url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png",
         "issuer": {
           "entities": [
             {
@@ -2214,10 +2229,10 @@
       "expires_at_date": "2026-02-09",
       "id": "7a64b80c-707d-479a-8a08-c7ee3a87dc3a",
       "image": {
-        "id": "ab23e6b1-d5ba-48ee-a3ba-71849e0ac637",
-        "url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png"
+        "id": "c9ed294b-f8ac-48fa-a8c3-96dab1f110f2",
+        "url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png"
       },
-      "image_url": "https://images.credly.com/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png",
+      "image_url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png",
       "is_private_badge": false,
       "issued_at": "2023-02-07T23:40:30.000-06:00",
       "issued_at_date": "2023-02-08",
@@ -2263,6 +2278,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": true,
         "cost": null,
         "description": "Kusto Detective Agency: New Detective!",
         "earn_this_badge_url": "https://detective.kusto.io",
@@ -2386,6 +2402,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": true,
         "cost": null,
         "description": "Kusto Detective Agency: Case \"To bill or not to bill?\" solved!",
         "earn_this_badge_url": "https://detective.kusto.io",
@@ -2530,6 +2547,7 @@
             "url": null
           }
         ],
+        "badge_template_earnable": false,
         "cost": null,
         "description": "Many of Microsoft’s software and technologies are technically complex, and professionals may require training from knowledgeable trainers in aspects of their use. In order to make such training generally available, Microsoft has developed the Microsoft Certified Trainer (MCT) Program which grants membership to professional trainers and learning consultants who demonstrate and maintain technical and instructional expertise on Microsoft technologies and who have complied with all requirements.",
         "earn_this_badge_url": null,
@@ -2668,6 +2686,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": true,
         "cost": null,
         "description": "Kusto Detective Agency: Case \"Catch the Phishermen!\" solved!",
         "earn_this_badge_url": "https://detective.kusto.io",
@@ -2791,6 +2810,7 @@
             "url": "https://detective.kusto.io"
           }
         ],
+        "badge_template_earnable": true,
         "cost": null,
         "description": "Kusto Detective Agency: Case \"Return stolen cars!\" solved!",
         "earn_this_badge_url": "https://detective.kusto.io",
