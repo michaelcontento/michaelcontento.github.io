@@ -250,5 +250,17 @@
     "MicrosoftIds": null,
     "Name": "New Rank: Kusto Detective III",
     "RemoteImageUrl": "https://images.credly.com/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/0c8e932a-99e5-4f25-b51c-f38957717c4c",
+    "Description": "Passing the GitHub Foundations certification exam validates subject matter expertise by measuring entry-level skills with GitHub basics like repositories, commits, branching, markdowns, and project management.",
+    "ExpiresAt": "2026-08-16T18:59:59.000-05:00",
+    "Id": "0c8e932a-99e5-4f25-b51c-f38957717c4c",
+    "IssuedAt": "2023-08-16T03:01:46.000-05:00",
+    "IssuerUrl": null,
+    "LocalImagePath": "images/CredlyBadges/0c8e932a-99e5-4f25-b51c-f38957717c4c.png",
+    "MicrosoftIds": null,
+    "Name": "GitHub foundations for non-developers",
+    "RemoteImageUrl": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
   }
 ]
