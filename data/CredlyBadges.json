@@ -262,5 +262,77 @@
     "MicrosoftIds": null,
     "Name": "GitHub foundations for non-developers",
     "RemoteImageUrl": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/90f9a7e6-c5f4-474c-ba85-b9cfb8356013",
+    "Description": "Kusto Detective Agency: Case \"Triple Trouble\" solved!",
+    "ExpiresAt": null,
+    "Id": "90f9a7e6-c5f4-474c-ba85-b9cfb8356013",
+    "IssuedAt": "2023-09-28T00:28:38.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/90f9a7e6-c5f4-474c-ba85-b9cfb8356013.png",
+    "MicrosoftIds": null,
+    "Name": "New Rank: Senior Kusto Detective",
+    "RemoteImageUrl": "https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/46e471e2-efec-4ef7-b41f-46b09d3f182d",
+    "Description": "Kusto Detective Agency: Case \"Blast into the past\" solved!",
+    "ExpiresAt": null,
+    "Id": "46e471e2-efec-4ef7-b41f-46b09d3f182d",
+    "IssuedAt": "2023-09-28T00:33:12.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/46e471e2-efec-4ef7-b41f-46b09d3f182d.png",
+    "MicrosoftIds": null,
+    "Name": "New Rank: Kusto Senior Detective II",
+    "RemoteImageUrl": "https://images.credly.com/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/d974ea99-c24c-4f04-86e0-2f9d69b69a4d",
+    "Description": "Kusto Detective Agency: Case \"Hack this rack\" solved!",
+    "ExpiresAt": null,
+    "Id": "d974ea99-c24c-4f04-86e0-2f9d69b69a4d",
+    "IssuedAt": "2023-09-28T00:37:09.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/d974ea99-c24c-4f04-86e0-2f9d69b69a4d.png",
+    "MicrosoftIds": null,
+    "Name": "New rank: Principal Detective",
+    "RemoteImageUrl": "https://images.credly.com/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/58c05919-c60d-4860-8f26-eccfdba6fa0f",
+    "Description": "Kusto Detective Agency: Case \"Mission Connect\" solved!",
+    "ExpiresAt": null,
+    "Id": "58c05919-c60d-4860-8f26-eccfdba6fa0f",
+    "IssuedAt": "2023-09-28T00:42:43.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/58c05919-c60d-4860-8f26-eccfdba6fa0f.png",
+    "MicrosoftIds": null,
+    "Name": "New rank: Special Detective Agent",
+    "RemoteImageUrl": "https://images.credly.com/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/4762b65d-9447-4f44-abe5-aa4e4fe1b5c9",
+    "Description": "Kusto Detective Agency: Case \"Catchy Run\" solved!",
+    "ExpiresAt": null,
+    "Id": "4762b65d-9447-4f44-abe5-aa4e4fe1b5c9",
+    "IssuedAt": "2023-09-28T00:47:42.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/4762b65d-9447-4f44-abe5-aa4e4fe1b5c9.png",
+    "MicrosoftIds": null,
+    "Name": "New rank: Special Detective Agent II",
+    "RemoteImageUrl": "https://images.credly.com/images/1c1c412b-926c-4ff8-8e42-62336e76e871/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/1f4100bd-0742-41ca-855b-60f08b38836e",
+    "Description": "Kusto Detective Agency: Case \"Network Hunch\" solved!",
+    "ExpiresAt": null,
+    "Id": "1f4100bd-0742-41ca-855b-60f08b38836e",
+    "IssuedAt": "2023-09-28T00:48:48.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/1f4100bd-0742-41ca-855b-60f08b38836e.png",
+    "MicrosoftIds": null,
+    "Name": "New Rank: Senior Detective Agent",
+    "RemoteImageUrl": "https://images.credly.com/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png"
   }
 ]
