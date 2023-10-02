@@ -334,5 +334,17 @@
     "MicrosoftIds": null,
     "Name": "New Rank: Senior Detective Agent",
     "RemoteImageUrl": "https://images.credly.com/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png"
+  },
+  {
+    "CredlyUrl": "https://www.credly.com/badges/1a922786-d4a3-438c-a62e-8824128dba96",
+    "Description": "Kusto Detective Agency: Gold Award for Season 2 completion!",
+    "ExpiresAt": null,
+    "Id": "1a922786-d4a3-438c-a62e-8824128dba96",
+    "IssuedAt": "2023-10-01T15:04:56.000-05:00",
+    "IssuerUrl": "https://detective.kusto.io",
+    "LocalImagePath": "images/CredlyBadges/1a922786-d4a3-438c-a62e-8824128dba96.png",
+    "MicrosoftIds": null,
+    "Name": "Kusto Detective Gold Star!",
+    "RemoteImageUrl": "https://images.credly.com/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png"
   }
 ]
