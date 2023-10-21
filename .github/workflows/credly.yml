@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT }}
 
       - name: Import credly badges
         uses: michaelcontento/credly2hugo-action@v1
