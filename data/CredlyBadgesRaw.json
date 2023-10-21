@@ -3017,7 +3017,7 @@
           "summary": "issued by GitHub"
         },
         "level": "Foundational",
-        "name": "GitHub foundations for non-developers",
+        "name": "GitHub Foundations",
         "owner_vanity_slug": "github",
         "public": true,
         "recipient_type": "User",
@@ -3063,8 +3063,8 @@
         "time_to_earn": "Days",
         "translatable": false,
         "type_category": "Certification",
-        "url": "https://www.credly.com/org/github/badge/github-foundations-for-non-developers",
-        "vanity_slug": "github-foundations-for-non-developers"
+        "url": "https://www.credly.com/org/github/badge/github-foundations",
+        "vanity_slug": "github-foundations"
       },
       "earner_path": "/users/michael-contento",
       "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
