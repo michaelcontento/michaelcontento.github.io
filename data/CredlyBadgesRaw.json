@@ -2920,15 +2920,1071 @@
       "translate_metadata": false,
       "updated_at": "2023-06-28T16:25:24.544-05:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-27T11:24:19.002-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "a5459bbf-9dad-4d3c-ac2c-9a6c9c389d6b",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "c1f61037-a10f-47eb-8459-6fb3c65eabe7",
+            "required_badge_template_id": null,
+            "title": "Describe the GitHub Advanced Security features and functionality",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "b038ca18-21b3-4975-8ef3-f44c779597ce",
+            "required_badge_template_id": null,
+            "title": "Configure and use secret scanning",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "868f274d-1630-48df-aabc-ef318371c8c9",
+            "required_badge_template_id": null,
+            "title": "Configure and use dependency management",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "ef971571-e953-42e7-9d69-0d510b2dfc58",
+            "required_badge_template_id": null,
+            "title": "Configure and use code scanning",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "3c9bdc14-04ec-4842-bea6-620e6997862c",
+            "required_badge_template_id": null,
+            "title": "Use code scanning with CodeQL",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "e6797c5b-f802-4c55-a365-b7c9726cdd0b",
+            "required_badge_template_id": null,
+            "title": "Describe GitHub Advanced Security best practices, results, and how to take corrective measures",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "c48888d6-4f59-4989-9d3b-2323ea1e8eb3",
+            "required_badge_template_id": null,
+            "title": "Configure GitHub Advanced Security tools in GitHub Enterprise",
+            "url": null
+          }
+        ],
+        "badge_template_earnable": false,
+        "cost": "Paid",
+        "description": "Passing the GitHub Foundations certification exam validates subject matter expertise by measuring entry-level skills with GitHub basics like repositories, commits, branching, markdowns, and project management.",
+        "earn_this_badge_url": null,
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": null,
+        "id": "b8f84afc-e711-4261-a8cd-3f447dfdcb76",
+        "image": {
+          "id": "024d0122-724d-4c5a-bd83-cfe3c4b7a073",
+          "url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+        },
+        "image_url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "63074953-290b-4dce-86ce-ea04b4187219",
+                "internationalize_badge_templates": false,
+                "name": "GitHub",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+                "vanity_url": "https://www.credly.com/org/github",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by GitHub"
+        },
+        "level": "Foundational",
+        "name": "GitHub foundations for non-developers",
+        "owner_vanity_slug": "github",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "1349859b-7d0a-4bd9-9757-5182d2f84f9e",
+            "name": "Build Pipeline",
+            "vanity_slug": "build-pipeline"
+          },
+          {
+            "id": "047ebc52-ba7a-4089-8a94-eb18a746afc0",
+            "name": "Continuous Delivery",
+            "vanity_slug": "continuous-delivery"
+          },
+          {
+            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
+            "name": "Continuous Integration",
+            "vanity_slug": "continuous-integration"
+          },
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          },
+          {
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
+          },
+          {
+            "id": "041eebbd-c559-4a39-a1d7-8d1d4a39d0ee",
+            "name": "GitHub Actions",
+            "vanity_slug": "github-actions"
+          },
+          {
+            "id": "cf2e9f5c-d82e-40ec-b0c5-ecb9658faaf8",
+            "name": "Release Management",
+            "vanity_slug": "release-management"
+          }
+        ],
+        "time_to_earn": "Days",
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/github/badge/github-foundations-for-non-developers",
+        "vanity_slug": "github-foundations-for-non-developers"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2026-08-16T18:59:59.000-05:00",
+      "expires_at_date": "2026-08-16",
+      "id": "0c8e932a-99e5-4f25-b51c-f38957717c4c",
+      "image": {
+        "id": "024d0122-724d-4c5a-bd83-cfe3c4b7a073",
+        "url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+      },
+      "image_url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-08-16T03:01:46.000-05:00",
+      "issued_at_date": "2023-08-16",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "63074953-290b-4dce-86ce-ea04b4187219",
+              "internationalize_badge_templates": false,
+              "name": "GitHub",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+              "vanity_url": "https://www.credly.com/org/github",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by GitHub"
+      },
+      "last_updated_at": "2023-09-27T11:24:19.015-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-27T11:24:19.015-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-28T00:28:38.100-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "607b70d0-c096-41d8-b4f9-f41bfe5d15e6",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case 4 of Season 2",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Case \"Triple Trouble\" solved!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "d8042c9b-f613-41bc-ba7f-45935d20a861",
+        "image": {
+          "id": "79b22d1d-cb2d-471e-add7-bbe2e1672f61",
+          "url": "https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png"
+        },
+        "image_url": "https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": "Intermediate",
+        "name": "New Rank: Senior Kusto Detective",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-senior-kusto-detective",
+        "vanity_slug": "new-rank-senior-kusto-detective"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "90f9a7e6-c5f4-474c-ba85-b9cfb8356013",
+      "image": {
+        "id": "79b22d1d-cb2d-471e-add7-bbe2e1672f61",
+        "url": "https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png"
+      },
+      "image_url": "https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-28T00:28:38.000-05:00",
+      "issued_at_date": "2023-09-28",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-09-28T00:28:38.114-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-28T00:28:38.114-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-28T00:33:12.377-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "1d367175-28bd-4b8a-b3af-c7b3f5f4a28d",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case S2E5",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Case \"Blast into the past\" solved!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "45390f30-dd8c-4e05-b755-0c3c84926316",
+        "image": {
+          "id": "2fb50859-656e-4390-b4ca-88bc2b619867",
+          "url": "https://images.credly.com/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png"
+        },
+        "image_url": "https://images.credly.com/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "New Rank: Kusto Senior Detective II",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-kusto-senior-detective-ii",
+        "vanity_slug": "new-rank-kusto-senior-detective-ii"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "46e471e2-efec-4ef7-b41f-46b09d3f182d",
+      "image": {
+        "id": "2fb50859-656e-4390-b4ca-88bc2b619867",
+        "url": "https://images.credly.com/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png"
+      },
+      "image_url": "https://images.credly.com/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-28T00:33:12.000-05:00",
+      "issued_at_date": "2023-09-28",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-09-28T00:33:12.392-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-28T00:33:12.392-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-28T00:37:09.239-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "dff84681-8f29-4236-a2dc-b5f30f1c3c0a",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case S2E6",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Case \"Hack this rack\" solved!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "6f1fe71a-3e61-4360-b181-966ea6aa7e93",
+        "image": {
+          "id": "8db7e105-c19e-4df8-87a4-ed1d5ccbc32b",
+          "url": "https://images.credly.com/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png"
+        },
+        "image_url": "https://images.credly.com/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "New rank: Principal Detective",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-principal-detective",
+        "vanity_slug": "new-rank-principal-detective"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "d974ea99-c24c-4f04-86e0-2f9d69b69a4d",
+      "image": {
+        "id": "8db7e105-c19e-4df8-87a4-ed1d5ccbc32b",
+        "url": "https://images.credly.com/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png"
+      },
+      "image_url": "https://images.credly.com/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-28T00:37:09.000-05:00",
+      "issued_at_date": "2023-09-28",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-09-28T00:37:09.255-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-28T00:37:09.255-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-28T00:42:43.971-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "7bdc6e9a-7f89-45af-a8ac-641aff7aac9c",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case S2E7",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Case \"Mission Connect\" solved!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "a9431292-ebc3-4fe6-afc2-94a7114766c1",
+        "image": {
+          "id": "b096f449-fce1-42d7-be93-e6e1e32e171b",
+          "url": "https://images.credly.com/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png"
+        },
+        "image_url": "https://images.credly.com/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "New rank: Special Detective Agent",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-special-detective-agent",
+        "vanity_slug": "new-rank-special-detective-agent"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "58c05919-c60d-4860-8f26-eccfdba6fa0f",
+      "image": {
+        "id": "b096f449-fce1-42d7-be93-e6e1e32e171b",
+        "url": "https://images.credly.com/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png"
+      },
+      "image_url": "https://images.credly.com/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-28T00:42:43.000-05:00",
+      "issued_at_date": "2023-09-28",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-09-28T00:42:43.987-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-28T00:42:43.987-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-28T00:47:42.313-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "f4610c6c-64ab-4c35-b525-663018d3fa47",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case S2E8",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Case \"Catchy Run\" solved!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "d1610192-1fa1-4a97-b5d0-4ec88b905e50",
+        "image": {
+          "id": "1c1c412b-926c-4ff8-8e42-62336e76e871",
+          "url": "https://images.credly.com/images/1c1c412b-926c-4ff8-8e42-62336e76e871/image.png"
+        },
+        "image_url": "https://images.credly.com/images/1c1c412b-926c-4ff8-8e42-62336e76e871/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "New rank: Special Detective Agent II",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-special-detective-agent-ii",
+        "vanity_slug": "new-rank-special-detective-agent-ii"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "4762b65d-9447-4f44-abe5-aa4e4fe1b5c9",
+      "image": {
+        "id": "1c1c412b-926c-4ff8-8e42-62336e76e871",
+        "url": "https://images.credly.com/images/1c1c412b-926c-4ff8-8e42-62336e76e871/image.png"
+      },
+      "image_url": "https://images.credly.com/images/1c1c412b-926c-4ff8-8e42-62336e76e871/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-28T00:47:42.000-05:00",
+      "issued_at_date": "2023-09-28",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-09-28T00:47:42.333-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-28T00:47:42.333-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-28T00:48:48.100-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "61fe381f-9c7a-4e31-a327-9bef47876406",
+            "required_badge_template_id": null,
+            "title": "Participation in the Kusto Detective Agency riddle competition, case S2E9",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Case \"Network Hunch\" solved!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "46e0a018-c64b-4d5c-af9f-dd3bd820c18c",
+        "image": {
+          "id": "86ba2d7a-85fb-4331-bf1d-2e7b8ec32220",
+          "url": "https://images.credly.com/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png"
+        },
+        "image_url": "https://images.credly.com/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": null,
+        "name": "New Rank: Senior Detective Agent",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Experience",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-rank-senior-detective-agent",
+        "vanity_slug": "new-rank-senior-detective-agent"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "1f4100bd-0742-41ca-855b-60f08b38836e",
+      "image": {
+        "id": "86ba2d7a-85fb-4331-bf1d-2e7b8ec32220",
+        "url": "https://images.credly.com/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png"
+      },
+      "image_url": "https://images.credly.com/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-28T00:48:48.000-05:00",
+      "issued_at_date": "2023-09-28",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-09-28T00:48:48.113-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-28T00:48:48.113-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-10-01T15:04:56.768-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Participant",
+            "id": "69dd527e-4ff0-4d67-b80b-3659016a0a41",
+            "required_badge_template_id": null,
+            "title": "Successfully solved all Kusto Detective Agency Season 2 competition cases!",
+            "url": "https://detective.kusto.io"
+          }
+        ],
+        "badge_template_earnable": true,
+        "cost": null,
+        "description": "Kusto Detective Agency: Gold Award for Season 2 completion!",
+        "earn_this_badge_url": "https://detective.kusto.io",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://detective.kusto.io",
+        "id": "775ffecb-ba9c-4440-ac7b-edb916c048ba",
+        "image": {
+          "id": "8aa171e5-784a-4a9e-b1ab-c3b818ea136a",
+          "url": "https://images.credly.com/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png"
+        },
+        "image_url": "https://images.credly.com/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "internationalize_badge_templates": false,
+                "name": "Microsoft Azure Data Explorer",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+                "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Microsoft Azure Data Explorer"
+        },
+        "level": "Advanced",
+        "name": "Kusto Detective Gold Star!",
+        "owner_vanity_slug": "microsoft-azure-data-explorer",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
+            "name": "Big Data",
+            "vanity_slug": "big-data"
+          },
+          {
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/microsoft-azure-data-explorer/badge/kusto-detective-gold-star",
+        "vanity_slug": "kusto-detective-gold-star"
+      },
+      "earner_path": "/users/michael-contento",
+      "earner_photo_url": "https://images.credly.com/images/a0ff2baf-9612-482a-a71e-09809015b8e0/blob.jpeg",
+      "evidence": [],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "1a922786-d4a3-438c-a62e-8824128dba96",
+      "image": {
+        "id": "8aa171e5-784a-4a9e-b1ab-c3b818ea136a",
+        "url": "https://images.credly.com/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png"
+      },
+      "image_url": "https://images.credly.com/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-10-01T15:04:56.000-05:00",
+      "issued_at_date": "2023-10-01",
+      "issued_to": "Michael Contento",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "internationalize_badge_templates": false,
+              "name": "Microsoft Azure Data Explorer",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/6fa7ee1e-5594-4d24-9531-eb913e7a2dd5",
+              "vanity_url": "https://www.credly.com/org/microsoft-azure-data-explorer",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Microsoft Azure Data Explorer"
+      },
+      "last_updated_at": "2023-10-01T15:04:56.787-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-10-01T15:04:56.787-05:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 20,
+    "count": 28,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 20,
+    "total_count": 28,
     "total_pages": 1
   }
 }

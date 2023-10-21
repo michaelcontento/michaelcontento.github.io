@@ -10,14 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PAT }}
 
       - name: Import credly badges
         uses: michaelcontento/credly2hugo-action@v1
         with: 
           username: michael-contento
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "credly2hugo: Imported new files from Credly"
