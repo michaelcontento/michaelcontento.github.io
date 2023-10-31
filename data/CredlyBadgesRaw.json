@@ -2937,49 +2937,49 @@
             "activity_type": "Assessment",
             "id": "c1f61037-a10f-47eb-8459-6fb3c65eabe7",
             "required_badge_template_id": null,
-            "title": "Describe the GitHub Advanced Security features and functionality",
+            "title": "Introduction to Git and GitHub",
             "url": null
           },
           {
             "activity_type": "Assessment",
             "id": "b038ca18-21b3-4975-8ef3-f44c779597ce",
             "required_badge_template_id": null,
-            "title": "Configure and use secret scanning",
+            "title": "Working with GitHub Repositories",
             "url": null
           },
           {
             "activity_type": "Assessment",
             "id": "868f274d-1630-48df-aabc-ef318371c8c9",
             "required_badge_template_id": null,
-            "title": "Configure and use dependency management",
+            "title": "Collaboration Features",
             "url": null
           },
           {
             "activity_type": "Assessment",
             "id": "ef971571-e953-42e7-9d69-0d510b2dfc58",
             "required_badge_template_id": null,
-            "title": "Configure and use code scanning",
+            "title": "Modern Development",
             "url": null
           },
           {
             "activity_type": "Assessment",
             "id": "3c9bdc14-04ec-4842-bea6-620e6997862c",
             "required_badge_template_id": null,
-            "title": "Use code scanning with CodeQL",
+            "title": "Project Management",
             "url": null
           },
           {
             "activity_type": "Assessment",
             "id": "e6797c5b-f802-4c55-a365-b7c9726cdd0b",
             "required_badge_template_id": null,
-            "title": "Describe GitHub Advanced Security best practices, results, and how to take corrective measures",
+            "title": "Privacy, Security, and Administration",
             "url": null
           },
           {
             "activity_type": "Assessment",
             "id": "c48888d6-4f59-4989-9d3b-2323ea1e8eb3",
             "required_badge_template_id": null,
-            "title": "Configure GitHub Advanced Security tools in GitHub Enterprise",
+            "title": "Benefits of the GitHub Community",
             "url": null
           }
         ],
